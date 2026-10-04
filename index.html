@@ -77,14 +77,15 @@ function render(){
 }
 function submitOne(i){
   const p=DATA.pending[i];
-  const w=window.open(p.gsc,'_blank');
+  const GSC='https://search.google.com/search-console?resource_id=sc-domain:rootearn.com';
   try{ navigator.clipboard.writeText(p.url); }catch(e){}
+  const w=window.open(GSC,'_blank');
   const bar=document.getElementById('bar'+i);
-  const openLink = '<a href="'+p.gsc+'" target="_blank" rel="noopener" style="text-decoration:none;display:inline-block;background:#1a56db;color:#fff;padding:7px 12px;border-radius:8px;font-weight:600;font-size:13px">GSC kholein</a>';
-  bar.innerHTML = (w?'':openLink)+
+  bar.innerHTML = (w?'':'<a href="'+GSC+'" target="_blank" rel="noopener" style="text-decoration:none;display:inline-block;background:#1a56db;color:#fff;padding:7px 12px;border-radius:8px;font-weight:600;font-size:13px">GSC kholein</a>')+
     '<button class="b3" onclick="indexnow('+i+')">⚡ IndexNow</button>'+
     '<button class="b2" onclick="goBack('+i+')">← Back</button>'+
-    '<span class="note" id="res'+i+'">'+(w?'URL copy + GSC khul gaya ✓ — wahan Request Indexing dabao.':'Browser ne popup roka — "GSC kholein" dabao.')+'</span>';
+    '<span class="note" id="res'+i+'">URL copy ho gaya ✓ — GSC me upar wale <b>Inspect any URL</b> box me <b>Ctrl+V</b> karein aur Enter dabayein, phir <b>Request Indexing</b>.</span>'+
+    '<div class="note" style="width:100%"><code style="font-size:12px;background:#eef2f7;padding:3px 6px;border-radius:5px;word-break:break-all">'+p.url+'</code></div>';
 }
 function indexnow(i){
   const p=DATA.pending[i];const el=document.getElementById('res'+i);
