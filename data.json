@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T03:49:35.222323Z",
+ "generated": "2026-10-04T03:49:43.218777Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,30 +21,16 @@
    "ctr": 1.42,
    "position": 29.0
   },
-  "indexed": 40,
+  "indexed": 42,
   "total_urls": 42,
-  "not_indexed": 2,
+  "not_indexed": 0,
   "checked_now": 42
  },
  "coverage_states": {
   "Submitted and indexed": 32,
-  "Discovered - currently not indexed": 8,
-  "URL is unknown to Google": 2
+  "Discovered - currently not indexed": 10
  },
- "pending": [
-  {
-   "url": "https://rootearn.com/category/personal-finance/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fpersonal-finance%2F"
-  },
-  {
-   "url": "https://rootearn.com/category/taxes/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ftaxes%2F"
-  }
- ],
+ "pending": [],
  "url_states": [
   {
    "url": "https://rootearn.com/",
@@ -102,7 +88,7 @@
   },
   {
    "url": "https://rootearn.com/category/personal-finance/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fpersonal-finance%2F"
   },
@@ -126,7 +112,7 @@
   },
   {
    "url": "https://rootearn.com/category/taxes/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ftaxes%2F"
   },
