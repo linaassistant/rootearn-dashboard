@@ -1,0 +1,92 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>RootEarn — SEO &amp; Index Dashboard</title>
+<style>
+:root{--navy:#0f2a4a;--blue:#1a56db;--green:#059669;--bg:#f4f7fb;--card:#fff;--line:#e2e8f0;--muted:#64748b}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:#1e293b}
+header{background:var(--navy);color:#fff;padding:18px 22px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px}
+header h1{margin:0;font-size:19px}header small{opacity:.75;font-size:12px}
+.wrap{max-width:1100px;margin:0 auto;padding:20px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px}
+.kpi b{display:block;font-size:23px;color:var(--navy)}.kpi span{font-size:12px;color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;margin-top:18px}
+.card h2{margin:0 0 12px;font-size:14px;color:var(--navy);text-transform:uppercase;letter-spacing:.4px}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:9px 8px;border-bottom:1px solid var(--line);vertical-align:middle}
+th{color:var(--muted);font-size:12px;text-transform:uppercase}
+td.u{font-family:ui-monospace,Menlo,monospace;font-size:12.5px;word-break:break-all}
+.pill{display:inline-block;padding:2px 8px;border-radius:99px;font-size:11px;background:#fef3c7;color:#92400e;white-space:nowrap}
+button{cursor:pointer;border:none;border-radius:8px;padding:7px 12px;font-size:13px;font-weight:600}
+.b1{background:var(--blue);color:#fff}.b2{background:#e2e8f0;color:#0f2a4a}.b3{background:var(--green);color:#fff}
+.b1:hover{background:#1746b8}.b2:hover{background:#d3dbe8}.b3:hover{background:#047857}
+.row-bar{margin-top:8px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.note{margin-top:10px;font-size:13px;color:var(--muted)}
+.bars{display:flex;gap:4px;align-items:flex-end;height:70px;margin-top:6px}
+.bar{flex:1;background:var(--blue);border-radius:3px 3px 0 0;min-height:2px;position:relative}
+.bar:hover::after{content:attr(data-t);position:absolute;bottom:100%;left:50%;transform:translateX(-50%);background:var(--navy);color:#fff;padding:3px 6px;border-radius:5px;font-size:11px;white-space:nowrap}
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--navy);color:#fff;padding:10px 16px;border-radius:10px;font-size:14px;opacity:0;transition:.25s;pointer-events:none}
+#toast.on{opacity:1}
+.st{margin-top:22px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;justify-content:center}
+</style></head><body>
+<header>
+  <div><h1>RootEarn — SEO &amp; Index Dashboard</h1><small id="gen">loading…</small></div>
+  <div><button class="b2" onclick="location.reload()">↻ Reload</button></div>
+</header>
+<div class="wrap">
+  <div class="kpis" id="kpis"></div>
+  <div class="card">
+    <h2>Un-indexed pages — <span id="pendcount">0</span></h2>
+    <table><thead><tr><th>Page</th><th>Google status</th><th>Action</th></tr></thead><tbody id="pendrows"></tbody></table>
+    <div class="note"><b>Submit</b> → URL copy + Google Search Console ka URL Inspection page khulta hai (URL auto-paste). Wahan <b>Request Indexing</b> dabayein, phir yahan <b>⚡ IndexNow</b>, aur <b>← Back</b> se list par wapas.</div>
+  </div>
+  <div class="card">
+    <h2>Last 14 days — impressions</h2>
+    <div class="bars" id="bars"></div><div class="note" id="barlegend"></div>
+  </div>
+  <div class="card">
+    <h2>Top pages (28 days)</h2>
+    <table><thead><tr><th>Page</th><th>Impressions</th><th>Clicks</th><th>Avg position</th></tr></thead><tbody id="toprows"></tbody></table>
+  </div>
+  <div class="st"><span class="note" id="states"></span></div>
+  <div class="st" style="margin-bottom:30px"><button class="b2" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑ Back to top</button></div>
+</div>
+<div id="toast"></div>
+<script>
+const DATA = {"generated": "2026-10-04T01:15:41.707064Z", "site": "rootearn.com", "sitemap": "https://rootearn.com/sitemap_index.xml", "kpi": {"today": {"clicks": 0, "impressions": 0, "ctr": 0.0, "position": 0.0}, "d7": {"clicks": 2, "impressions": 593, "ctr": 0.34, "position": 29.0}, "d28": {"clicks": 9, "impressions": 635, "ctr": 1.42, "position": 29.0}, "indexed": 32, "total_urls": 42, "not_indexed": 10}, "coverage_states": {"Submitted and indexed": 32, "Discovered - currently not indexed": 9, "URL is unknown to Google": 1}, "pending": [{"url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/", "state": "Discovered - currently not indexed", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"}, {"url": "https://rootearn.com/category/freelancing-gig-work/", "state": "Discovered - currently not indexed", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"}, {"url": "https://rootearn.com/category/make-money-online/", "state": "Discovered - currently not indexed", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"}, {"url": "https://rootearn.com/category/personal-finance/", "state": "Discovered - currently not indexed", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fpersonal-finance%2F"}, {"url": "https://rootearn.com/category/retirement/", "state": "Discovered - currently not indexed", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fretirement%2F"}, {"url": "https://rootearn.com/category/saving-banking/", "state": "Discovered - currently not indexed", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fsaving-banking%2F"}, {"url": "https://rootearn.com/category/taxes/", "state": "Discovered - currently not indexed", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ftaxes%2F"}, {"url": "https://rootearn.com/emergency-fund-2026-how-much-where/", "state": "URL is unknown to Google", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Femergency-fund-2026-how-much-where%2F"}, {"url": "https://rootearn.com/highest-paying-freelance-skills-2026/", "state": "Discovered - currently not indexed", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"}, {"url": "https://rootearn.com/make-money-online-2026/", "state": "Discovered - currently not indexed", "crawl": "", "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"}], "daily": [{"date": "2026-09-02", "clicks": 0, "impressions": 0}, {"date": "2026-09-03", "clicks": 0, "impressions": 0}, {"date": "2026-09-04", "clicks": 0, "impressions": 0}, {"date": "2026-09-05", "clicks": 0, "impressions": 0}, {"date": "2026-09-06", "clicks": 0, "impressions": 0}, {"date": "2026-09-07", "clicks": 0, "impressions": 0}, {"date": "2026-09-08", "clicks": 0, "impressions": 0}, {"date": "2026-09-09", "clicks": 0, "impressions": 1}, {"date": "2026-09-10", "clicks": 0, "impressions": 0}, {"date": "2026-09-11", "clicks": 0, "impressions": 0}, {"date": "2026-09-12", "clicks": 0, "impressions": 1}, {"date": "2026-09-13", "clicks": 0, "impressions": 0}, {"date": "2026-09-14", "clicks": 0, "impressions": 0}, {"date": "2026-09-15", "clicks": 0, "impressions": 0}, {"date": "2026-09-16", "clicks": 0, "impressions": 0}, {"date": "2026-09-17", "clicks": 0, "impressions": 1}, {"date": "2026-09-18", "clicks": 0, "impressions": 0}, {"date": "2026-09-19", "clicks": 1, "impressions": 1}, {"date": "2026-09-20", "clicks": 3, "impressions": 4}, {"date": "2026-09-21", "clicks": 0, "impressions": 9}, {"date": "2026-09-22", "clicks": 0, "impressions": 15}, {"date": "2026-09-23", "clicks": 0, "impressions": 48}, {"date": "2026-09-24", "clicks": 1, "impressions": 64}, {"date": "2026-09-25", "clicks": 0, "impressions": 112}, {"date": "2026-09-26", "clicks": 2, "impressions": 93}, {"date": "2026-09-27", "clicks": 1, "impressions": 93}, {"date": "2026-09-28", "clicks": 0, "impressions": 105}, {"date": "2026-09-29", "clicks": 1, "impressions": 88}], "top_pages": [{"page": "/", "clicks": 5, "impressions": 12, "position": 3.3}, {"page": "/about/", "clicks": 2, "impressions": 4, "position": 1.5}, {"page": "/ai-side-hustles-2026/", "clicks": 1, "impressions": 7, "position": 8.9}, {"page": "/survey-sites-vs-cashback-apps-2026/", "clicks": 1, "impressions": 3, "position": 64}, {"page": "/401k-contribution-limits-2026/", "clicks": 0, "impressions": 50, "position": 83.8}, {"page": "/?p=19", "clicks": 0, "impressions": 1, "position": 4}, {"page": "/all-articles/", "clicks": 0, "impressions": 2, "position": 3}, {"page": "/best-side-hustles-2026/", "clicks": 0, "impressions": 13, "position": 42.4}, {"page": "/category/passive-income/", "clicks": 0, "impressions": 1, "position": 6}, {"page": "/category/real-earnings/", "clicks": 0, "impressions": 1, "position": 5}, {"page": "/category/side-hustles/", "clicks": 0, "impressions": 1, "position": 8}, {"page": "/cd-ladder-strategy/", "clicks": 0, "impressions": 2, "position": 5}, {"page": "/ebay-vs-facebook-marketplace-2026/", "clicks": 0, "impressions": 4, "position": 6.2}, {"page": "/etsy-seller-take-home-2026/", "clicks": 0, "impressions": 85, "position": 22.1}, {"page": "/gig-apps-same-day-pay-2026/", "clicks": 0, "impressions": 16, "position": 6.8}, {"page": "/gig-income-2026/", "clicks": 0, "impressions": 5, "position": 5.4}, {"page": "/high-yield-savings-rates-2026/", "clicks": 0, "impressions": 12, "position": 17.8}, {"page": "/how-much-does-doordash-pay/", "clicks": 0, "impressions": 1, "position": 3}, {"page": "/how-much-does-tiktok-pay/", "clicks": 0, "impressions": 73, "position": 21.8}, {"page": "/how-much-does-youtube-pay/", "clicks": 0, "impressions": 31, "position": 30.3}, {"page": "/hsa-contribution-limits-2026/", "clicks": 0, "impressions": 36, "position": 72.8}, {"page": "/passive-income-ideas-2026/", "clicks": 0, "impressions": 5, "position": 35.2}, {"page": "/poshmark-vs-mercari-2026/", "clicks": 0, "impressions": 2, "position": 2}, {"page": "/privacy-policy/", "clicks": 0, "impressions": 1, "position": 10}, {"page": "/roth-ira-contribution-limits-2026/", "clicks": 0, "impressions": 214, "position": 24.0}, {"page": "/self-employment-tax-2026/", "clicks": 0, "impressions": 32, "position": 9.6}, {"page": "/side-hustle-tax-deductions-2026/", "clicks": 0, "impressions": 2, "position": 10}, {"page": "/terms-of-service/", "clicks": 0, "impressions": 1, "position": 9}, {"page": "/upwork-for-beginners-2026/", "clicks": 0, "impressions": 23, "position": 7.1}, {"page": "/work-from-home-jobs-no-experience/", "clicks": 0, "impressions": 5, "position": 29}], "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"};
+function toast(m){const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),2200);}
+function kpi(v,l){return '<div class="kpi"><b>'+v+'</b><span>'+l+'</span></div>';}
+function render(){
+  const k=DATA.kpi||{};
+  document.getElementById('gen').textContent='Updated: '+new Date(DATA.generated).toLocaleString()+' · '+DATA.total_urls+' URLs in sitemap';
+  document.getElementById('kpis').innerHTML=
+    kpi(k.indexed+' / '+k.total_urls,'Indexed on Google')+kpi(k.not_indexed,'Not indexed')+
+    kpi((k.today&&k.today.clicks)||0,'Clicks (yesterday)')+kpi((k.today&&k.today.impressions)||0,'Impressions (yesterday)')+
+    kpi((k.d7&&k.d7.clicks)||0,'Clicks (7d)')+kpi((k.d28&&k.d28.impressions)||0,'Impressions (28d)');
+  const rows=DATA.pending||[];document.getElementById('pendcount').textContent=rows.length;
+  document.getElementById('pendrows').innerHTML=rows.map((p,i)=>{
+    const path=p.url.replace('https://rootearn.com','')||'/';
+    return '<tr><td class="u">'+path+'</td><td><span class="pill">'+p.state+'</span></td><td>'+
+      '<button class="b1" onclick="submitOne('+i+')">Submit</button><div class="row-bar" id="bar'+i+'"></div></td></tr>';
+  }).join('')||'<tr><td colspan="3">Sab pages indexed hain 🎉</td></tr>';
+  const d=DATA.daily||[];const mx=Math.max(1,...d.map(x=>x.impressions));
+  document.getElementById('bars').innerHTML=d.map(x=>'<div class="bar" style="height:'+Math.max(2,(x.impressions/mx)*100)+'%" data-t="'+x.date+': '+x.impressions+' imp / '+x.clicks+' clicks"></div>').join('');
+  document.getElementById('barlegend').textContent=(d[0]?d[0].date:'')+' → '+(d.length?d[d.length-1].date:'');
+  document.getElementById('toprows').innerHTML=(DATA.top_pages||[]).map(p=>'<tr><td class="u">'+p.page+'</td><td>'+p.impressions+'</td><td>'+p.clicks+'</td><td>'+p.position+'</td></tr>').join('');
+  document.getElementById('states').textContent=Object.entries(DATA.coverage_states||{}).map(([a,b])=>b+' × '+a).join(' · ');
+}
+async function submitOne(i){
+  const p=DATA.pending[i];
+  try{await navigator.clipboard.writeText(p.url);toast('URL copy ho gaya ✓');}catch(e){toast('Copy nahi hua — manually copy karein');}
+  window.open(p.gsc,'_blank');
+  document.getElementById('bar'+i).innerHTML='<button class="b3" onclick="indexnow('+i+')">⚡ IndexNow</button>'+
+    '<button class="b2" onclick="goBack('+i+')">← Back</button><span class="note" id="res'+i+'">GSC me Request Indexing dabao, phir IndexNow.</span>';
+}
+function indexnow(i){
+  const p=DATA.pending[i];const el=document.getElementById('res'+i);
+  const u='https://api.indexnow.org/indexnow?url='+encodeURIComponent(p.url)+'&key='+encodeURIComponent(DATA.indexnow_key||'');
+  window.open(u,'_blank');el.textContent='IndexNow submit bheja gaya ✓ (naya tab)';
+}
+function goBack(i){document.getElementById('bar'+i).innerHTML='';window.scrollTo({top:0,behavior:'smooth'});}
+render();
+</script></body></html>
