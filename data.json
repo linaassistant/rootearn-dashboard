@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T04:14:33.468974Z",
+ "generated": "2026-10-04T04:52:25.702062Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,14 +21,15 @@
    "ctr": 1.42,
    "position": 29.0
   },
-  "indexed": 32,
+  "indexed": 37,
   "total_urls": 42,
-  "not_indexed": 10,
+  "not_indexed": 5,
   "checked_now": 13
  },
  "coverage_states": {
-  "Submitted and indexed": 32,
-  "Discovered - currently not indexed": 10
+  "Submitted and indexed": 37,
+  "Discovered - currently not indexed": 4,
+  "URL is unknown to Google": 1
  },
  "pending": [
   {
@@ -50,36 +51,6 @@
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
   {
-   "url": "https://rootearn.com/category/personal-finance/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fpersonal-finance%2F"
-  },
-  {
-   "url": "https://rootearn.com/category/retirement/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fretirement%2F"
-  },
-  {
-   "url": "https://rootearn.com/category/saving-banking/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fsaving-banking%2F"
-  },
-  {
-   "url": "https://rootearn.com/category/taxes/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ftaxes%2F"
-  },
-  {
-   "url": "https://rootearn.com/emergency-fund-2026-how-much-where/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Femergency-fund-2026-how-much-where%2F"
-  },
-  {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
    "state": "Discovered - currently not indexed",
    "crawl": "",
@@ -87,7 +58,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   }
@@ -149,20 +120,20 @@
   },
   {
    "url": "https://rootearn.com/category/personal-finance/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fpersonal-finance%2F"
   },
   {
    "url": "https://rootearn.com/category/retirement/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fretirement%2F"
   },
   {
    "url": "https://rootearn.com/category/saving-banking/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fsaving-banking%2F"
   },
   {
@@ -173,8 +144,8 @@
   },
   {
    "url": "https://rootearn.com/category/taxes/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ftaxes%2F"
   },
   {
@@ -203,8 +174,8 @@
   },
   {
    "url": "https://rootearn.com/emergency-fund-2026-how-much-where/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Femergency-fund-2026-how-much-where%2F"
   },
   {
@@ -275,7 +246,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
