@@ -1,6 +1,13 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>RootEarn — SEO &amp; Index Dashboard</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0f2a4a">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="RootEarn">
+<link rel="apple-touch-icon" href="icon-192.png">
 <style>
 :root{--navy:#0f2a4a;--blue:#1a56db;--green:#059669;--bg:#f4f7fb;--card:#fff;--line:#e2e8f0;--muted:#64748b}
 *{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:#1e293b}
@@ -94,4 +101,7 @@ function indexnow(i){
 }
 function goBack(i){document.getElementById('bar'+i).innerHTML='';window.scrollTo({top:0,behavior:'smooth'});}
 render();
+</script>
+<script>
+if ('serviceWorker' in navigator) { window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(()=>{})); }
 </script></body></html>
