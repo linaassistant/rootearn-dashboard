@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T04:01:19.387100Z",
+ "generated": "2026-10-04T04:14:24.375374Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,16 +21,78 @@
    "ctr": 1.42,
    "position": 29.0
   },
-  "indexed": 42,
+  "indexed": 32,
   "total_urls": 42,
-  "not_indexed": 0,
-  "checked_now": 5
+  "not_indexed": 10,
+  "checked_now": 13
  },
  "coverage_states": {
   "Submitted and indexed": 32,
-  "Discovered - currently not indexed": 10
+  "Discovered - currently not indexed": 8,
+  "URL is unknown to Google": 2
  },
- "pending": [],
+ "pending": [
+  {
+   "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/freelancing-gig-work/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/make-money-online/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/personal-finance/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fpersonal-finance%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/retirement/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fretirement%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/saving-banking/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fsaving-banking%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/taxes/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ftaxes%2F"
+  },
+  {
+   "url": "https://rootearn.com/emergency-fund-2026-how-much-where/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Femergency-fund-2026-how-much-where%2F"
+  },
+  {
+   "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/make-money-online-2026/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
+  }
+ ],
  "url_states": [
   {
    "url": "https://rootearn.com/",
@@ -76,7 +138,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -172,7 +234,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
