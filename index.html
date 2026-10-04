@@ -75,12 +75,16 @@ function render(){
   document.getElementById('toprows').innerHTML=(DATA.top_pages||[]).map(p=>'<tr><td class="u">'+p.page+'</td><td>'+p.impressions+'</td><td>'+p.clicks+'</td><td>'+p.position+'</td></tr>').join('');
   document.getElementById('states').textContent=Object.entries(DATA.coverage_states||{}).map(([a,b])=>b+' × '+a).join(' · ');
 }
-async function submitOne(i){
+function submitOne(i){
   const p=DATA.pending[i];
-  try{await navigator.clipboard.writeText(p.url);toast('URL copy ho gaya ✓');}catch(e){toast('Copy nahi hua — manually copy karein');}
-  window.open(p.gsc,'_blank');
-  document.getElementById('bar'+i).innerHTML='<button class="b3" onclick="indexnow('+i+')">⚡ IndexNow</button>'+
-    '<button class="b2" onclick="goBack('+i+')">← Back</button><span class="note" id="res'+i+'">GSC me Request Indexing dabao, phir IndexNow.</span>';
+  const w=window.open(p.gsc,'_blank');
+  try{ navigator.clipboard.writeText(p.url); }catch(e){}
+  const bar=document.getElementById('bar'+i);
+  const openLink = '<a href="'+p.gsc+'" target="_blank" rel="noopener" style="text-decoration:none;display:inline-block;background:#1a56db;color:#fff;padding:7px 12px;border-radius:8px;font-weight:600;font-size:13px">GSC kholein</a>';
+  bar.innerHTML = (w?'':openLink)+
+    '<button class="b3" onclick="indexnow('+i+')">⚡ IndexNow</button>'+
+    '<button class="b2" onclick="goBack('+i+')">← Back</button>'+
+    '<span class="note" id="res'+i+'">'+(w?'URL copy + GSC khul gaya ✓ — wahan Request Indexing dabao.':'Browser ne popup roka — "GSC kholein" dabao.')+'</span>';
 }
 function indexnow(i){
   const p=DATA.pending[i];const el=document.getElementById('res'+i);
