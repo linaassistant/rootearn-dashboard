@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T02:01:37.683097Z",
+ "generated": "2026-10-05T03:01:57.386229Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,25 +21,27 @@
    "ctr": 1.08,
    "position": 32.3
   },
-  "indexed": 37,
+  "indexed": 36,
   "total_urls": 42,
-  "not_indexed": 5,
+  "not_indexed": 6,
   "checked_now": 8
  },
  "coverage_states": {
-  "Submitted and indexed": 37,
-  "Discovered - currently not indexed": 5
+  "Submitted and indexed": 36,
+  "URL is unknown to Google": 2,
+  "Discovered - currently not indexed": 3,
+  "ERR: HTTP Error 500: Internal Server Error": 1
  },
  "pending": [
   {
    "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -48,6 +50,12 @@
    "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
+  },
+  {
+   "url": "https://rootearn.com/emergency-fund-2026-how-much-where/",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Femergency-fund-2026-how-much-where%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
@@ -101,13 +109,13 @@
   },
   {
    "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -173,8 +181,8 @@
   },
   {
    "url": "https://rootearn.com/emergency-fund-2026-how-much-where/",
-   "state": "Submitted and indexed",
-   "crawl": "2026-10-04",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
+   "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Femergency-fund-2026-how-much-where%2F"
   },
   {
