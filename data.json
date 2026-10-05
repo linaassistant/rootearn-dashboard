@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T11:01:49.690821Z",
+ "generated": "2026-10-05T12:01:39.992578Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -10,16 +10,16 @@
    "position": 0.0
   },
   "d7": {
-   "clicks": 2,
-   "impressions": 484,
-   "ctr": 0.41,
-   "position": 30.5
+   "clicks": 3,
+   "impressions": 515,
+   "ctr": 0.58,
+   "position": 32.7
   },
   "d28": {
-   "clicks": 9,
-   "impressions": 833,
-   "ctr": 1.08,
-   "position": 32.3
+   "clicks": 10,
+   "impressions": 864,
+   "ctr": 1.16,
+   "position": 33.5
   },
   "indexed": 37,
   "total_urls": 42,
@@ -28,7 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 37,
-  "Discovered - currently not indexed": 5
+  "Discovered - currently not indexed": 4,
+  "URL is unknown to Google": 1
  },
  "pending": [
   {
@@ -51,7 +52,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -203,7 +204,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -381,26 +382,37 @@
    "date": "2026-10-02",
    "clicks": 0,
    "impressions": 52
+  },
+  {
+   "date": "2026-10-03",
+   "clicks": 1,
+   "impressions": 31
   }
  ],
  "top_pages": [
   {
    "page": "/",
    "clicks": 5,
-   "impressions": 12,
-   "position": 3.3
+   "impressions": 13,
+   "position": 3.2
   },
   {
    "page": "/about/",
    "clicks": 2,
-   "impressions": 4,
-   "position": 1.5
+   "impressions": 5,
+   "position": 2
   },
   {
    "page": "/ai-side-hustles-2026/",
    "clicks": 1,
    "impressions": 8,
    "position": 14.1
+  },
+  {
+   "page": "/best-side-hustles-2026/",
+   "clicks": 1,
+   "impressions": 20,
+   "position": 42.7
   },
   {
    "page": "/survey-sites-vs-cashback-apps-2026/",
@@ -411,8 +423,8 @@
   {
    "page": "/401k-contribution-limits-2026/",
    "clicks": 0,
-   "impressions": 57,
-   "position": 83.3
+   "impressions": 59,
+   "position": 82.2
   },
   {
    "page": "/?p=19",
@@ -423,19 +435,13 @@
   {
    "page": "/all-articles/",
    "clicks": 0,
-   "impressions": 2,
+   "impressions": 3,
    "position": 3
-  },
-  {
-   "page": "/best-side-hustles-2026/",
-   "clicks": 0,
-   "impressions": 16,
-   "position": 44.2
   },
   {
    "page": "/category/passive-income/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "position": 6
   },
   {
@@ -447,8 +453,8 @@
   {
    "page": "/category/side-hustles/",
    "clicks": 0,
-   "impressions": 1,
-   "position": 8
+   "impressions": 2,
+   "position": 8.5
   },
   {
    "page": "/cd-ladder-strategy/",
@@ -471,8 +477,8 @@
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 22,
-   "position": 6.5
+   "impressions": 23,
+   "position": 6.7
   }
  ],
  "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"
