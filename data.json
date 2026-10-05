@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T08:01:38.685970Z",
+ "generated": "2026-10-05T09:01:38.405458Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,12 +28,13 @@
  },
  "coverage_states": {
   "Submitted and indexed": 37,
-  "Discovered - currently not indexed": 5
+  "URL is unknown to Google": 1,
+  "Discovered - currently not indexed": 4
  },
  "pending": [
   {
    "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
   },
@@ -101,7 +102,7 @@
   },
   {
    "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
   },
