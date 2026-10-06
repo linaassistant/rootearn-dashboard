@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T20:01:19.409700Z",
+ "generated": "2026-10-06T21:01:19.525809Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,13 +28,13 @@
  },
  "coverage_states": {
   "Submitted and indexed": 37,
-  "Discovered - currently not indexed": 4,
-  "URL is unknown to Google": 1
+  "URL is unknown to Google": 3,
+  "Discovered - currently not indexed": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
   },
@@ -58,7 +58,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   }
@@ -102,7 +102,7 @@
   },
   {
    "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
   },
@@ -246,7 +246,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
