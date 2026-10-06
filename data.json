@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T17:01:20.627779Z",
+ "generated": "2026-10-06T18:01:20.360477Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 2,
-   "impressions": 422,
-   "ctr": 0.47,
-   "position": 33.1
+   "impressions": 487,
+   "ctr": 0.41,
+   "position": 37.2
   },
   "d28": {
    "clicks": 10,
-   "impressions": 864,
-   "ctr": 1.16,
-   "position": 33.5
+   "impressions": 929,
+   "ctr": 1.08,
+   "position": 35.7
   },
   "indexed": 37,
   "total_urls": 42,
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 37,
-  "Discovered - currently not indexed": 1,
-  "URL is unknown to Google": 4
+  "Discovered - currently not indexed": 3,
+  "URL is unknown to Google": 2
  },
  "pending": [
   {
@@ -46,7 +46,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -58,7 +58,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   }
@@ -114,7 +114,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -246,7 +246,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -382,6 +382,11 @@
    "date": "2026-10-03",
    "clicks": 1,
    "impressions": 31
+  },
+  {
+   "date": "2026-10-04",
+   "clicks": 0,
+   "impressions": 65
   }
  ],
  "top_pages": [
@@ -406,8 +411,8 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 1,
-   "impressions": 20,
-   "position": 42.7
+   "impressions": 23,
+   "position": 46.3
   },
   {
    "page": "/survey-sites-vs-cashback-apps-2026/",
@@ -418,8 +423,8 @@
   {
    "page": "/401k-contribution-limits-2026/",
    "clicks": 0,
-   "impressions": 59,
-   "position": 82.2
+   "impressions": 60,
+   "position": 82.3
   },
   {
    "page": "/?p=19",
@@ -466,13 +471,13 @@
   {
    "page": "/etsy-seller-take-home-2026/",
    "clicks": 0,
-   "impressions": 111,
-   "position": 19.6
+   "impressions": 120,
+   "position": 25.1
   },
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 23,
+   "impressions": 24,
    "position": 6.7
   }
  ],
