@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T17:02:23.004450Z",
+ "generated": "2026-10-07T18:02:36.005981Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,38 +21,26 @@
    "ctr": 1.08,
    "position": 35.7
   },
-  "indexed": 38,
-  "total_urls": 53,
-  "not_indexed": 15,
-  "checked_now": 15
+  "indexed": 45,
+  "total_urls": 54,
+  "not_indexed": 9,
+  "checked_now": 16
  },
  "coverage_states": {
-  "Submitted and indexed": 38,
-  "URL is unknown to Google": 13,
-  "Discovered - currently not indexed": 2
+  "Submitted and indexed": 45,
+  "Discovered - currently not indexed": 2,
+  "URL is unknown to Google": 7
  },
  "pending": [
   {
-   "url": "https://rootearn.com/1099-tax-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2F1099-tax-calculator%2F"
-  },
-  {
-   "url": "https://rootearn.com/401k-contribution-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2F401k-contribution-calculator%2F"
-  },
-  {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -87,40 +75,16 @@
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-taskrabbit-pay-2026%2F"
   },
   {
-   "url": "https://rootearn.com/how-much-does-uber-eats-pay-2026/",
+   "url": "https://rootearn.com/how-much-does-walmart-spark-pay-2026/",
    "state": "URL is unknown to Google",
    "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-uber-eats-pay-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/income-tax-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fincome-tax-calculator%2F"
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-walmart-spark-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
    "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/savers-match-2027/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsavers-match-2027%2F"
-  },
-  {
-   "url": "https://rootearn.com/seasonal-jobs-that-pay-weekly-2026/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fseasonal-jobs-that-pay-weekly-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/self-employment-tax-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employment-tax-calculator%2F"
   }
  ],
  "url_states": [
@@ -132,14 +96,14 @@
   },
   {
    "url": "https://rootearn.com/1099-tax-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2F1099-tax-calculator%2F"
   },
   {
    "url": "https://rootearn.com/401k-contribution-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2F401k-contribution-calculator%2F"
   },
   {
@@ -180,13 +144,13 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -330,9 +294,15 @@
   },
   {
    "url": "https://rootearn.com/how-much-does-uber-eats-pay-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-uber-eats-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-walmart-spark-pay-2026/",
    "state": "URL is unknown to Google",
    "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-uber-eats-pay-2026%2F"
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-walmart-spark-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/how-much-does-youtube-pay/",
@@ -348,8 +318,8 @@
   },
   {
    "url": "https://rootearn.com/income-tax-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fincome-tax-calculator%2F"
   },
   {
@@ -390,14 +360,14 @@
   },
   {
    "url": "https://rootearn.com/savers-match-2027/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsavers-match-2027%2F"
   },
   {
    "url": "https://rootearn.com/seasonal-jobs-that-pay-weekly-2026/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fseasonal-jobs-that-pay-weekly-2026%2F"
   },
   {
@@ -408,8 +378,8 @@
   },
   {
    "url": "https://rootearn.com/self-employment-tax-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employment-tax-calculator%2F"
   },
   {
