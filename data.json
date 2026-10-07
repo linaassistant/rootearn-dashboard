@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T13:02:29.392093Z",
+ "generated": "2026-10-07T14:02:32.102010Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,15 +21,15 @@
    "ctr": 1.08,
    "position": 35.7
   },
-  "indexed": 37,
+  "indexed": 38,
   "total_urls": 53,
-  "not_indexed": 16,
+  "not_indexed": 15,
   "checked_now": 16
  },
  "coverage_states": {
-  "Submitted and indexed": 37,
+  "Submitted and indexed": 38,
   "URL is unknown to Google": 13,
-  "Discovered - currently not indexed": 3
+  "Discovered - currently not indexed": 2
  },
  "pending": [
   {
@@ -45,14 +45,8 @@
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2F401k-contribution-calculator%2F"
   },
   {
-   "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
-  },
-  {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -70,7 +64,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -180,13 +174,13 @@
   },
   {
    "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -288,7 +282,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
