@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T23:02:04.093277Z",
+ "generated": "2026-10-07T23:23:07.971078Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -22,14 +22,14 @@
    "position": 35.7
   },
   "indexed": 45,
-  "total_urls": 55,
-  "not_indexed": 10,
-  "checked_now": 12
+  "total_urls": 56,
+  "not_indexed": 11,
+  "checked_now": 13
  },
  "coverage_states": {
   "Submitted and indexed": 45,
-  "URL is unknown to Google": 6,
-  "Discovered - currently not indexed": 4
+  "URL is unknown to Google": 5,
+  "Discovered - currently not indexed": 6
  },
  "pending": [
   {
@@ -40,7 +40,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -52,7 +52,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -79,6 +79,12 @@
    "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-walmart-spark-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-to-set-aside-for-taxes-1099/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-to-set-aside-for-taxes-1099%2F"
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
@@ -156,7 +162,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -252,7 +258,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -315,6 +321,12 @@
    "state": "Submitted and indexed",
    "crawl": "2026-09-21",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-youtube-pay%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-to-set-aside-for-taxes-1099/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-to-set-aside-for-taxes-1099%2F"
   },
   {
    "url": "https://rootearn.com/hsa-contribution-limits-2026/",
