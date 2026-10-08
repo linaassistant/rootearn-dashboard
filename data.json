@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T19:02:10.391824Z",
+ "generated": "2026-10-08T20:02:05.890307Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,48 +11,48 @@
   },
   "d7": {
    "clicks": 1,
-   "impressions": 340,
-   "ctr": 0.29,
-   "position": 51.4
+   "impressions": 383,
+   "ctr": 0.26,
+   "position": 51.2
   },
   "d28": {
    "clicks": 10,
-   "impressions": 975,
-   "ctr": 1.03,
-   "position": 36.8
+   "impressions": 1018,
+   "ctr": 0.98,
+   "position": 37.4
   },
   "indexed": 50,
   "total_urls": 56,
   "not_indexed": 6,
-  "checked_now": 13
+  "checked_now": 12
  },
  "coverage_states": {
   "Submitted and indexed": 50,
-  "Discovered - currently not indexed": 3,
-  "URL is unknown to Google": 3
+  "URL is unknown to Google": 4,
+  "Discovered - currently not indexed": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -64,7 +64,7 @@
   },
   {
    "url": "https://rootearn.com/overtime-pay-calculator/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-pay-calculator%2F"
   }
@@ -126,13 +126,13 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -204,7 +204,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -228,7 +228,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -318,7 +318,7 @@
   },
   {
    "url": "https://rootearn.com/overtime-pay-calculator/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-pay-calculator%2F"
   },
@@ -472,6 +472,11 @@
    "date": "2026-10-05",
    "clicks": 0,
    "impressions": 46
+  },
+  {
+   "date": "2026-10-06",
+   "clicks": 0,
+   "impressions": 43
   }
  ],
  "top_pages": [
@@ -538,8 +543,8 @@
   {
    "page": "/category/side-hustles/",
    "clicks": 0,
-   "impressions": 2,
-   "position": 8.5
+   "impressions": 3,
+   "position": 19
   },
   {
    "page": "/cd-ladder-strategy/",
@@ -562,8 +567,8 @@
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 25,
-   "position": 6.7
+   "impressions": 26,
+   "position": 7.1
   }
  ],
  "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"
