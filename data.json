@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T02:02:10.774162Z",
+ "generated": "2026-10-08T03:02:08.572620Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 2,
-   "impressions": 382,
-   "ctr": 0.52,
-   "position": 43.1
+   "impressions": 428,
+   "ctr": 0.47,
+   "position": 44.8
   },
   "d28": {
    "clicks": 10,
-   "impressions": 929,
-   "ctr": 1.08,
-   "position": 35.7
+   "impressions": 975,
+   "ctr": 1.03,
+   "position": 36.8
   },
   "indexed": 45,
   "total_urls": 56,
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 45,
-  "Discovered - currently not indexed": 2,
-  "URL is unknown to Google": 9
+  "Discovered - currently not indexed": 5,
+  "URL is unknown to Google": 6
  },
  "pending": [
   {
@@ -40,7 +40,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -52,7 +52,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -64,13 +64,13 @@
   },
   {
    "url": "https://rootearn.com/how-much-does-lyft-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-lyft-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/how-much-does-taskrabbit-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-taskrabbit-pay-2026%2F"
   },
@@ -88,7 +88,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -162,7 +162,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -258,7 +258,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -288,13 +288,13 @@
   },
   {
    "url": "https://rootearn.com/how-much-does-lyft-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-lyft-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/how-much-does-taskrabbit-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-taskrabbit-pay-2026%2F"
   },
@@ -342,7 +342,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -502,6 +502,11 @@
    "date": "2026-10-04",
    "clicks": 0,
    "impressions": 65
+  },
+  {
+   "date": "2026-10-05",
+   "clicks": 0,
+   "impressions": 46
   }
  ],
  "top_pages": [
@@ -526,8 +531,8 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 1,
-   "impressions": 23,
-   "position": 46.3
+   "impressions": 27,
+   "position": 47.3
   },
   {
    "page": "/survey-sites-vs-cashback-apps-2026/",
@@ -538,8 +543,8 @@
   {
    "page": "/401k-contribution-limits-2026/",
    "clicks": 0,
-   "impressions": 60,
-   "position": 82.3
+   "impressions": 63,
+   "position": 82.9
   },
   {
    "page": "/?p=19",
@@ -580,8 +585,8 @@
   {
    "page": "/ebay-vs-facebook-marketplace-2026/",
    "clicks": 0,
-   "impressions": 8,
-   "position": 6.5
+   "impressions": 9,
+   "position": 6.4
   },
   {
    "page": "/etsy-seller-take-home-2026/",
@@ -592,7 +597,7 @@
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 24,
+   "impressions": 25,
    "position": 6.7
   }
  ],
