@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T15:02:12.568944Z",
+ "generated": "2026-10-08T16:02:09.940388Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 45,
-  "URL is unknown to Google": 9,
-  "Discovered - currently not indexed": 2
+  "URL is unknown to Google": 7,
+  "Discovered - currently not indexed": 4
  },
  "pending": [
   {
@@ -40,7 +40,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -64,19 +64,19 @@
   },
   {
    "url": "https://rootearn.com/how-much-does-lyft-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-lyft-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/how-much-does-taskrabbit-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-taskrabbit-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/how-much-does-walmart-spark-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-walmart-spark-pay-2026%2F"
   },
@@ -162,7 +162,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -288,13 +288,13 @@
   },
   {
    "url": "https://rootearn.com/how-much-does-lyft-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-lyft-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/how-much-does-taskrabbit-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-taskrabbit-pay-2026%2F"
   },
@@ -312,7 +312,7 @@
   },
   {
    "url": "https://rootearn.com/how-much-does-walmart-spark-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-walmart-spark-pay-2026%2F"
   },
