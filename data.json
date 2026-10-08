@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T08:00:44.552165Z",
+ "generated": "2026-10-08T10:10:39.758760Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,14 +21,441 @@
    "ctr": 1.03,
    "position": 36.8
   },
-  "indexed": 0,
-  "total_urls": 0,
-  "not_indexed": 0,
-  "checked_now": 0
+  "indexed": 42,
+  "total_urls": 56,
+  "not_indexed": 14,
+  "checked_now": 56
  },
- "coverage_states": {},
- "pending": [],
- "url_states": [],
+ "coverage_states": {
+  "Submitted and indexed": 42,
+  "Discovered - currently not indexed": 5,
+  "URL is unknown to Google": 5,
+  "ERR: The read operation timed out": 4
+ },
+ "pending": [
+  {
+   "url": "https://rootearn.com/category/freelancing-gig-work/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/make-money-online/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
+  },
+  {
+   "url": "https://rootearn.com/free-tools/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
+  },
+  {
+   "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-grubhub-pay-2026/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-grubhub-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-lyft-pay-2026/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-lyft-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-taskrabbit-pay-2026/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-taskrabbit-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-walmart-spark-pay-2026/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-walmart-spark-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-to-set-aside-for-taxes-1099/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-to-set-aside-for-taxes-1099%2F"
+  },
+  {
+   "url": "https://rootearn.com/make-money-online-2026/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/overtime-pay-calculator/",
+   "state": "ERR: The read operation timed out",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-pay-calculator%2F"
+  },
+  {
+   "url": "https://rootearn.com/passive-income-ideas-2026/",
+   "state": "ERR: The read operation timed out",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fpassive-income-ideas-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/poshmark-vs-mercari-2026/",
+   "state": "ERR: The read operation timed out",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fposhmark-vs-mercari-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/privacy-policy/",
+   "state": "ERR: The read operation timed out",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fprivacy-policy%2F"
+  }
+ ],
+ "url_states": [
+  {
+   "url": "https://rootearn.com/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2F"
+  },
+  {
+   "url": "https://rootearn.com/1099-tax-calculator/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2F1099-tax-calculator%2F"
+  },
+  {
+   "url": "https://rootearn.com/401k-contribution-calculator/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2F401k-contribution-calculator%2F"
+  },
+  {
+   "url": "https://rootearn.com/401k-contribution-limits-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-20",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2F401k-contribution-limits-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/about/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-23",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fabout%2F"
+  },
+  {
+   "url": "https://rootearn.com/ai-side-hustles-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-21",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fai-side-hustles-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/all-articles/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-23",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fall-articles%2F"
+  },
+  {
+   "url": "https://rootearn.com/best-side-hustles-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-22",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbest-side-hustles-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/budgeting-apps-2026-best-free-compared/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fbudgeting-apps-2026-best-free-compared%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/freelancing-gig-work/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/make-money-online/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/personal-finance/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fpersonal-finance%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/retirement/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fretirement%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/saving-banking/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fsaving-banking%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/side-hustles/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-25",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fside-hustles%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/taxes/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ftaxes%2F"
+  },
+  {
+   "url": "https://rootearn.com/cd-ladder-strategy/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-21",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcd-ladder-strategy%2F"
+  },
+  {
+   "url": "https://rootearn.com/credit-score-range-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-20",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcredit-score-range-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/debt-snowball-vs-avalanche-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-02",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdebt-snowball-vs-avalanche-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/ebay-vs-facebook-marketplace-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-27",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Febay-vs-facebook-marketplace-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/emergency-fund-2026-how-much-where/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-04",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Femergency-fund-2026-how-much-where%2F"
+  },
+  {
+   "url": "https://rootearn.com/etsy-seller-take-home-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-24",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fetsy-seller-take-home-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/free-tools/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
+  },
+  {
+   "url": "https://rootearn.com/gig-apps-same-day-pay-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-23",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-apps-same-day-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/gig-income-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-25",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-income-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/high-yield-savings-rates-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-20",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhigh-yield-savings-rates-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-do-you-need-to-retire/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-20",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-you-need-to-retire%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-doordash-pay/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-21",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-doordash-pay%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-fiverr-pay/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-22",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-fiverr-pay%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-grubhub-pay-2026/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-grubhub-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-lyft-pay-2026/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-lyft-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-taskrabbit-pay-2026/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-taskrabbit-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-tiktok-pay/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-22",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-tiktok-pay%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-uber-eats-pay-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-uber-eats-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-walmart-spark-pay-2026/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-walmart-spark-pay-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-youtube-pay/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-21",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-youtube-pay%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-to-set-aside-for-taxes-1099/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-to-set-aside-for-taxes-1099%2F"
+  },
+  {
+   "url": "https://rootearn.com/hsa-contribution-limits-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-21",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhsa-contribution-limits-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/income-tax-calculator/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fincome-tax-calculator%2F"
+  },
+  {
+   "url": "https://rootearn.com/make-money-online-2026/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/overtime-pay-calculator/",
+   "state": "ERR: The read operation timed out",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-pay-calculator%2F"
+  },
+  {
+   "url": "https://rootearn.com/passive-income-ideas-2026/",
+   "state": "ERR: The read operation timed out",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fpassive-income-ideas-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/poshmark-vs-mercari-2026/",
+   "state": "ERR: The read operation timed out",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fposhmark-vs-mercari-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/privacy-policy/",
+   "state": "ERR: The read operation timed out",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fprivacy-policy%2F"
+  },
+  {
+   "url": "https://rootearn.com/roth-ira-contribution-limits-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-22",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Froth-ira-contribution-limits-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/save-1000-in-30-days/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-30",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsave-1000-in-30-days%2F"
+  },
+  {
+   "url": "https://rootearn.com/savers-match-2027/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsavers-match-2027%2F"
+  },
+  {
+   "url": "https://rootearn.com/seasonal-jobs-that-pay-weekly-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fseasonal-jobs-that-pay-weekly-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/self-employment-tax-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-22",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employment-tax-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/self-employment-tax-calculator/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-07",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employment-tax-calculator%2F"
+  },
+  {
+   "url": "https://rootearn.com/side-hustle-tax-deductions-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-22",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fside-hustle-tax-deductions-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/survey-sites-vs-cashback-apps-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-26",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsurvey-sites-vs-cashback-apps-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/terms-of-service/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-25",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms-of-service%2F"
+  },
+  {
+   "url": "https://rootearn.com/upwork-for-beginners-2026/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-23",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fupwork-for-beginners-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/work-from-home-jobs-no-experience/",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-22",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fwork-from-home-jobs-no-experience%2F"
+  }
+ ],
  "daily": [
   {
    "date": "2026-09-23",
