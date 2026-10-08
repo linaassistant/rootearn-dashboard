@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T10:10:39.758760Z",
+ "generated": "2026-10-08T11:02:30.196386Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,16 +21,15 @@
    "ctr": 1.03,
    "position": 36.8
   },
-  "indexed": 42,
+  "indexed": 45,
   "total_urls": 56,
-  "not_indexed": 14,
-  "checked_now": 56
+  "not_indexed": 11,
+  "checked_now": 16
  },
  "coverage_states": {
-  "Submitted and indexed": 42,
-  "Discovered - currently not indexed": 5,
-  "URL is unknown to Google": 5,
-  "ERR: The read operation timed out": 4
+  "Submitted and indexed": 45,
+  "Discovered - currently not indexed": 4,
+  "URL is unknown to Google": 7
  },
  "pending": [
   {
@@ -89,33 +88,15 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
   {
    "url": "https://rootearn.com/overtime-pay-calculator/",
-   "state": "ERR: The read operation timed out",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-pay-calculator%2F"
-  },
-  {
-   "url": "https://rootearn.com/passive-income-ideas-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fpassive-income-ideas-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/poshmark-vs-mercari-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fposhmark-vs-mercari-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/privacy-policy/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fprivacy-policy%2F"
   }
  ],
  "url_states": [
@@ -361,32 +342,32 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
   {
    "url": "https://rootearn.com/overtime-pay-calculator/",
-   "state": "ERR: The read operation timed out",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-pay-calculator%2F"
   },
   {
    "url": "https://rootearn.com/passive-income-ideas-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-22",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fpassive-income-ideas-2026%2F"
   },
   {
    "url": "https://rootearn.com/poshmark-vs-mercari-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-28",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fposhmark-vs-mercari-2026%2F"
   },
   {
    "url": "https://rootearn.com/privacy-policy/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-09-23",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fprivacy-policy%2F"
   },
   {
