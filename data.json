@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T17:03:41.621482Z",
+ "generated": "2026-10-08T18:02:13.306207Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,9 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 45,
-  "URL is unknown to Google": 6,
-  "Discovered - currently not indexed": 4,
-  "ERR: The read operation timed out": 1
+  "URL is unknown to Google": 4,
+  "Discovered - currently not indexed": 7
  },
  "pending": [
   {
@@ -47,7 +46,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "ERR: The read operation timed out",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -65,13 +64,13 @@
   },
   {
    "url": "https://rootearn.com/how-much-does-lyft-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-lyft-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/how-much-does-taskrabbit-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-taskrabbit-pay-2026%2F"
   },
@@ -83,7 +82,7 @@
   },
   {
    "url": "https://rootearn.com/how-much-to-set-aside-for-taxes-1099/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-to-set-aside-for-taxes-1099%2F"
   },
@@ -235,7 +234,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "ERR: The read operation timed out",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -289,13 +288,13 @@
   },
   {
    "url": "https://rootearn.com/how-much-does-lyft-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-lyft-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/how-much-does-taskrabbit-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-taskrabbit-pay-2026%2F"
   },
@@ -325,7 +324,7 @@
   },
   {
    "url": "https://rootearn.com/how-much-to-set-aside-for-taxes-1099/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-to-set-aside-for-taxes-1099%2F"
   },
