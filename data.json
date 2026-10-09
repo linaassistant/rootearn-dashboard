@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T03:02:03.379542Z",
+ "generated": "2026-10-09T04:02:02.408567Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,13 +11,13 @@
   },
   "d7": {
    "clicks": 1,
-   "impressions": 383,
-   "ctr": 0.26,
-   "position": 51.2
+   "impressions": 272,
+   "ctr": 0.37,
+   "position": 62.3
   },
   "d28": {
    "clicks": 10,
-   "impressions": 1018,
+   "impressions": 1017,
    "ctr": 0.98,
    "position": 37.4
   },
@@ -40,7 +40,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -52,7 +52,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -132,7 +132,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -228,7 +228,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -409,11 +409,6 @@
  ],
  "daily": [
   {
-   "date": "2026-09-23",
-   "clicks": 0,
-   "impressions": 48
-  },
-  {
    "date": "2026-09-24",
    "clicks": 1,
    "impressions": 64
@@ -483,7 +478,7 @@
   {
    "page": "/",
    "clicks": 5,
-   "impressions": 13,
+   "impressions": 12,
    "position": 3.2
   },
   {
