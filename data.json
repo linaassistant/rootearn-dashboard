@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T22:02:04.558068Z",
+ "generated": "2026-10-15T23:02:02.582055Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 51,
-  "Discovered - currently not indexed": 7,
-  "URL is unknown to Google": 4
+  "Discovered - currently not indexed": 10,
+  "URL is unknown to Google": 1
  },
  "pending": [
   {
@@ -70,7 +70,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -82,7 +82,7 @@
   },
   {
    "url": "https://rootearn.com/sinking-fund-categories/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-fund-categories%2F"
   },
@@ -94,7 +94,7 @@
   },
   {
    "url": "https://rootearn.com/weekend-jobs-that-pay-cash-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fweekend-jobs-that-pay-cash-2026%2F"
   }
@@ -354,7 +354,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -426,7 +426,7 @@
   },
   {
    "url": "https://rootearn.com/sinking-fund-categories/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-fund-categories%2F"
   },
@@ -456,7 +456,7 @@
   },
   {
    "url": "https://rootearn.com/weekend-jobs-that-pay-cash-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fweekend-jobs-that-pay-cash-2026%2F"
   },
