@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T07:02:04.866255Z",
+ "generated": "2026-10-16T08:02:03.964367Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,13 +28,13 @@
  },
  "coverage_states": {
   "Submitted and indexed": 51,
-  "URL is unknown to Google": 4,
-  "Discovered - currently not indexed": 7
+  "Discovered - currently not indexed": 8,
+  "URL is unknown to Google": 3
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -52,7 +52,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -70,7 +70,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -82,7 +82,7 @@
   },
   {
    "url": "https://rootearn.com/sinking-fund-categories/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-fund-categories%2F"
   },
@@ -94,7 +94,7 @@
   },
   {
    "url": "https://rootearn.com/weekend-jobs-that-pay-cash-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fweekend-jobs-that-pay-cash-2026%2F"
   }
@@ -156,7 +156,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -258,7 +258,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -354,7 +354,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -426,7 +426,7 @@
   },
   {
    "url": "https://rootearn.com/sinking-fund-categories/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-fund-categories%2F"
   },
@@ -456,7 +456,7 @@
   },
   {
    "url": "https://rootearn.com/weekend-jobs-that-pay-cash-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fweekend-jobs-that-pay-cash-2026%2F"
   },
