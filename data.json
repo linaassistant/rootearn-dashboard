@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T17:02:06.037997Z",
+ "generated": "2026-10-17T18:02:03.774717Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,15 +21,15 @@
    "ctr": 2.13,
    "position": 28.6
   },
-  "indexed": 51,
+  "indexed": 57,
   "total_urls": 62,
-  "not_indexed": 11,
+  "not_indexed": 5,
   "checked_now": 12
  },
  "coverage_states": {
-  "Submitted and indexed": 51,
-  "Discovered - currently not indexed": 5,
-  "URL is unknown to Google": 6
+  "Submitted and indexed": 57,
+  "Discovered - currently not indexed": 4,
+  "URL is unknown to Google": 1
  },
  "pending": [
   {
@@ -40,13 +40,13 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -57,46 +57,10 @@
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
   {
-   "url": "https://rootearn.com/hsa-vs-fsa-open-enrollment-2026/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhsa-vs-fsa-open-enrollment-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/instacart-batch-pay-2026/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Finstacart-batch-pay-2026%2F"
-  },
-  {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/overtime-pay-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-pay-calculator%2F"
-  },
-  {
-   "url": "https://rootearn.com/sinking-fund-categories/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-fund-categories%2F"
-  },
-  {
-   "url": "https://rootearn.com/sinking-funds-explained-how-many-you-need/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-funds-explained-how-many-you-need%2F"
-  },
-  {
-   "url": "https://rootearn.com/weekend-jobs-that-pay-cash-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fweekend-jobs-that-pay-cash-2026%2F"
   }
  ],
  "url_states": [
@@ -162,7 +126,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -234,7 +198,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -336,8 +300,8 @@
   },
   {
    "url": "https://rootearn.com/hsa-vs-fsa-open-enrollment-2026/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhsa-vs-fsa-open-enrollment-2026%2F"
   },
   {
@@ -348,20 +312,20 @@
   },
   {
    "url": "https://rootearn.com/instacart-batch-pay-2026/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Finstacart-batch-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
   {
    "url": "https://rootearn.com/overtime-pay-calculator/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-pay-calculator%2F"
   },
   {
@@ -426,14 +390,14 @@
   },
   {
    "url": "https://rootearn.com/sinking-fund-categories/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-fund-categories%2F"
   },
   {
    "url": "https://rootearn.com/sinking-funds-explained-how-many-you-need/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-funds-explained-how-many-you-need%2F"
   },
   {
@@ -456,8 +420,8 @@
   },
   {
    "url": "https://rootearn.com/weekend-jobs-that-pay-cash-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fweekend-jobs-that-pay-cash-2026%2F"
   },
   {
