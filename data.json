@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T03:02:12.188376Z",
+ "generated": "2026-10-18T04:01:56.185113Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,15 +21,14 @@
    "ctr": 1.41,
    "position": 26.4
   },
-  "indexed": 56,
+  "indexed": 57,
   "total_urls": 62,
-  "not_indexed": 6,
+  "not_indexed": 5,
   "checked_now": 11
  },
  "coverage_states": {
-  "Submitted and indexed": 56,
-  "Discovered - currently not indexed": 5,
-  "ERR: HTTP Error 500: Internal Server Error": 1
+  "Submitted and indexed": 57,
+  "Discovered - currently not indexed": 5
  },
  "pending": [
   {
@@ -61,12 +60,6 @@
    "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/sinking-funds-explained-how-many-you-need/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-funds-explained-how-many-you-need%2F"
   }
  ],
  "url_states": [
@@ -402,8 +395,8 @@
   },
   {
    "url": "https://rootearn.com/sinking-funds-explained-how-many-you-need/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-funds-explained-how-many-you-need%2F"
   },
   {
