@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T07:02:02.690056Z",
+ "generated": "2026-10-19T08:01:57.845438Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 1,
-   "impressions": 123,
-   "ctr": 0.81,
-   "position": 40.9
+   "impressions": 145,
+   "ctr": 0.69,
+   "position": 40.0
   },
   "d28": {
    "clicks": 1,
-   "impressions": 123,
-   "ctr": 0.81,
-   "position": 40.9
+   "impressions": 145,
+   "ctr": 0.69,
+   "position": 40.0
   },
   "indexed": 57,
   "total_urls": 62,
@@ -28,13 +28,13 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "URL is unknown to Google": 3,
-  "Discovered - currently not indexed": 2
+  "Discovered - currently not indexed": 3,
+  "URL is unknown to Google": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -46,13 +46,13 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -120,7 +120,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -198,7 +198,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -222,7 +222,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -457,6 +457,11 @@
    "date": "2026-10-16",
    "clicks": 0,
    "impressions": 52
+  },
+  {
+   "date": "2026-10-17",
+   "clicks": 0,
+   "impressions": 22
   }
  ],
  "top_pages": [
@@ -487,14 +492,14 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 5,
-   "position": 37.8
+   "impressions": 6,
+   "position": 41.3
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
    "clicks": 0,
-   "impressions": 5,
-   "position": 26.4
+   "impressions": 6,
+   "position": 23.7
   },
   {
    "page": "/debt-snowball-vs-avalanche-2026/",
@@ -505,8 +510,8 @@
   {
    "page": "/emergency-fund-2026-how-much-where/",
    "clicks": 0,
-   "impressions": 4,
-   "position": 69.5
+   "impressions": 8,
+   "position": 74.8
   },
   {
    "page": "/etsy-seller-take-home-2026/",
@@ -529,20 +534,20 @@
   {
    "page": "/how-much-does-doordash-pay/",
    "clicks": 0,
-   "impressions": 3,
-   "position": 10.7
+   "impressions": 4,
+   "position": 10.8
   },
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 12,
+   "impressions": 15,
    "position": 8.7
   },
   {
    "page": "/how-much-does-grubhub-pay-2026/",
    "clicks": 0,
-   "impressions": 14,
-   "position": 31.4
+   "impressions": 18,
+   "position": 29.8
   },
   {
    "page": "/how-much-does-lyft-pay-2026/",
