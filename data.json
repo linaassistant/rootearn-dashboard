@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T13:02:29.624050Z",
+ "generated": "2026-10-19T14:02:01.102226Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,16 +21,15 @@
    "ctr": 0.69,
    "position": 40.0
   },
-  "indexed": 55,
+  "indexed": 57,
   "total_urls": 62,
-  "not_indexed": 7,
+  "not_indexed": 5,
   "checked_now": 11
  },
  "coverage_states": {
-  "Submitted and indexed": 55,
-  "URL is unknown to Google": 2,
-  "Discovered - currently not indexed": 2,
-  "ERR: HTTP Error 500: Internal Server Error": 3
+  "Submitted and indexed": 57,
+  "URL is unknown to Google": 3,
+  "Discovered - currently not indexed": 2
  },
  "pending": [
   {
@@ -47,7 +46,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -58,20 +57,8 @@
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
   {
-   "url": "https://rootearn.com/hsa-vs-fsa-open-enrollment-2026/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhsa-vs-fsa-open-enrollment-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/instacart-batch-pay-2026/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Finstacart-batch-pay-2026%2F"
-  },
-  {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   }
@@ -211,7 +198,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -313,8 +300,8 @@
   },
   {
    "url": "https://rootearn.com/hsa-vs-fsa-open-enrollment-2026/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhsa-vs-fsa-open-enrollment-2026%2F"
   },
   {
@@ -325,13 +312,13 @@
   },
   {
    "url": "https://rootearn.com/instacart-batch-pay-2026/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Finstacart-batch-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
