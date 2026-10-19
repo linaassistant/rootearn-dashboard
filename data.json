@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T09:01:57.798106Z",
+ "generated": "2026-10-19T10:01:56.522942Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -40,13 +40,13 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -126,7 +126,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -198,7 +198,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
