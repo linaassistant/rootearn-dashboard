@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T15:02:02.303073Z",
+ "generated": "2026-10-20T16:02:01.356511Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 1,
-   "impressions": 145,
-   "ctr": 0.69,
-   "position": 40.0
+   "impressions": 184,
+   "ctr": 0.54,
+   "position": 38.4
   },
   "d28": {
    "clicks": 1,
-   "impressions": 145,
-   "ctr": 0.69,
-   "position": 40.0
+   "impressions": 184,
+   "ctr": 0.54,
+   "position": 38.4
   },
   "indexed": 57,
   "total_urls": 62,
@@ -28,13 +28,13 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 2,
-  "URL is unknown to Google": 3
+  "URL is unknown to Google": 4,
+  "Discovered - currently not indexed": 1
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -120,7 +120,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -462,14 +462,19 @@
    "date": "2026-10-17",
    "clicks": 0,
    "impressions": 22
+  },
+  {
+   "date": "2026-10-18",
+   "clicks": 0,
+   "impressions": 39
   }
  ],
  "top_pages": [
   {
    "page": "/how-much-does-uber-eats-pay-2026/",
    "clicks": 1,
-   "impressions": 3,
-   "position": 10.7
+   "impressions": 4,
+   "position": 10.2
   },
   {
    "page": "/1099-tax-calculator/",
@@ -492,26 +497,26 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 6,
-   "position": 41.3
+   "impressions": 7,
+   "position": 36.9
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
    "clicks": 0,
-   "impressions": 6,
-   "position": 23.7
+   "impressions": 7,
+   "position": 21.6
   },
   {
    "page": "/debt-snowball-vs-avalanche-2026/",
    "clicks": 0,
-   "impressions": 1,
-   "position": 99
+   "impressions": 2,
+   "position": 88
   },
   {
    "page": "/emergency-fund-2026-how-much-where/",
    "clicks": 0,
-   "impressions": 8,
-   "position": 74.8
+   "impressions": 9,
+   "position": 76.1
   },
   {
    "page": "/etsy-seller-take-home-2026/",
@@ -528,32 +533,32 @@
   {
    "page": "/high-yield-savings-rates-2026/",
    "clicks": 0,
-   "impressions": 3,
-   "position": 76.3
+   "impressions": 4,
+   "position": 75.8
   },
   {
    "page": "/how-much-does-doordash-pay/",
    "clicks": 0,
-   "impressions": 4,
-   "position": 10.8
+   "impressions": 5,
+   "position": 10.6
   },
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 15,
-   "position": 8.7
+   "impressions": 18,
+   "position": 8.2
   },
   {
    "page": "/how-much-does-grubhub-pay-2026/",
    "clicks": 0,
-   "impressions": 18,
-   "position": 29.8
+   "impressions": 27,
+   "position": 29.3
   },
   {
    "page": "/how-much-does-lyft-pay-2026/",
    "clicks": 0,
-   "impressions": 1,
-   "position": 10
+   "impressions": 2,
+   "position": 36
   }
  ],
  "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"
