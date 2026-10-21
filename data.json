@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T06:01:57.261062Z",
+ "generated": "2026-10-21T07:01:58.406634Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,15 +21,15 @@
    "ctr": 0.54,
    "position": 38.4
   },
-  "indexed": 56,
+  "indexed": 57,
   "total_urls": 62,
-  "not_indexed": 6,
+  "not_indexed": 5,
   "checked_now": 11
  },
  "coverage_states": {
-  "Submitted and indexed": 56,
-  "Discovered - currently not indexed": 5,
-  "ERR: HTTP Error 500: Internal Server Error": 1
+  "Submitted and indexed": 57,
+  "Discovered - currently not indexed": 3,
+  "URL is unknown to Google": 2
  },
  "pending": [
   {
@@ -46,21 +46,15 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/instacart-batch-pay-2026/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Finstacart-batch-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
@@ -204,7 +198,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -228,7 +222,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -318,8 +312,8 @@
   },
   {
    "url": "https://rootearn.com/instacart-batch-pay-2026/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Finstacart-batch-pay-2026%2F"
   },
   {
