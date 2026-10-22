@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T10:01:56.881230Z",
+ "generated": "2026-10-22T11:01:58.582737Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 201,
+   "impressions": 239,
    "ctr": 0,
-   "position": 37.6
+   "position": 37.3
   },
   "d28": {
    "clicks": 1,
-   "impressions": 223,
-   "ctr": 0.45,
-   "position": 37.0
+   "impressions": 261,
+   "ctr": 0.38,
+   "position": 36.8
   },
   "indexed": 57,
   "total_urls": 62,
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "URL is unknown to Google": 2,
-  "Discovered - currently not indexed": 3
+  "URL is unknown to Google": 1,
+  "Discovered - currently not indexed": 4
  },
  "pending": [
   {
@@ -40,7 +40,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -126,7 +126,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -472,6 +472,11 @@
    "date": "2026-10-19",
    "clicks": 0,
    "impressions": 39
+  },
+  {
+   "date": "2026-10-20",
+   "clicks": 0,
+   "impressions": 38
   }
  ],
  "top_pages": [
@@ -490,8 +495,8 @@
   {
    "page": "/401k-contribution-calculator/",
    "clicks": 0,
-   "impressions": 4,
-   "position": 36.5
+   "impressions": 5,
+   "position": 39.2
   },
   {
    "page": "/401k-contribution-limits-2026/",
@@ -502,8 +507,8 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 9,
-   "position": 34.6
+   "impressions": 16,
+   "position": 35.1
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
@@ -532,8 +537,8 @@
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 6,
-   "position": 18.5
+   "impressions": 7,
+   "position": 18.4
   },
   {
    "page": "/high-yield-savings-rates-2026/",
@@ -550,14 +555,14 @@
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 21,
+   "impressions": 24,
    "position": 8.0
   },
   {
    "page": "/how-much-does-grubhub-pay-2026/",
    "clicks": 0,
-   "impressions": 35,
-   "position": 28.7
+   "impressions": 41,
+   "position": 28.0
   },
   {
    "page": "/how-much-does-lyft-pay-2026/",
