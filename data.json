@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T07:01:56.634915Z",
+ "generated": "2026-10-24T08:01:57.882577Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 231,
+   "impressions": 269,
    "ctr": 0,
-   "position": 37.3
+   "position": 36.1
   },
   "d28": {
    "clicks": 1,
-   "impressions": 302,
-   "ctr": 0.33,
-   "position": 34.7
+   "impressions": 340,
+   "ctr": 0.29,
+   "position": 34.1
   },
   "indexed": 57,
   "total_urls": 62,
@@ -28,12 +28,13 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 5
+  "URL is unknown to Google": 3,
+  "Discovered - currently not indexed": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -45,7 +46,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -57,7 +58,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   }
@@ -119,7 +120,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -197,7 +198,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -317,7 +318,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -481,20 +482,25 @@
    "date": "2026-10-21",
    "clicks": 0,
    "impressions": 41
+  },
+  {
+   "date": "2026-10-22",
+   "clicks": 0,
+   "impressions": 38
   }
  ],
  "top_pages": [
   {
    "page": "/how-much-does-uber-eats-pay-2026/",
    "clicks": 1,
-   "impressions": 5,
-   "position": 10
+   "impressions": 8,
+   "position": 9.9
   },
   {
    "page": "/1099-tax-calculator/",
    "clicks": 0,
-   "impressions": 1,
-   "position": 42
+   "impressions": 2,
+   "position": 36.5
   },
   {
    "page": "/401k-contribution-calculator/",
@@ -511,8 +517,8 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 22,
-   "position": 33.4
+   "impressions": 28,
+   "position": 35.1
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
@@ -541,8 +547,8 @@
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 7,
-   "position": 18.4
+   "impressions": 9,
+   "position": 16.8
   },
   {
    "page": "/high-yield-savings-rates-2026/",
@@ -559,14 +565,14 @@
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 28,
-   "position": 7.6
+   "impressions": 32,
+   "position": 7.3
   },
   {
    "page": "/how-much-does-grubhub-pay-2026/",
    "clicks": 0,
-   "impressions": 48,
-   "position": 27.6
+   "impressions": 51,
+   "position": 28.4
   },
   {
    "page": "/how-much-does-lyft-pay-2026/",
