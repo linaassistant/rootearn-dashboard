@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T03:01:56.214138Z",
+ "generated": "2026-10-24T04:01:55.710273Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,9 +11,9 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 255,
+   "impressions": 231,
    "ctr": 0,
-   "position": 35.9
+   "position": 37.3
   },
   "d28": {
    "clicks": 1,
