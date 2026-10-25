@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T06:01:57.259223Z",
+ "generated": "2026-10-25T07:01:57.503095Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 217,
+   "impressions": 258,
    "ctr": 0,
-   "position": 30.2
+   "position": 30.0
   },
   "d28": {
    "clicks": 1,
-   "impressions": 340,
-   "ctr": 0.29,
-   "position": 34.1
+   "impressions": 381,
+   "ctr": 0.26,
+   "position": 33.5
   },
   "indexed": 57,
   "total_urls": 62,
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 3,
-  "URL is unknown to Google": 2
+  "Discovered - currently not indexed": 4,
+  "URL is unknown to Google": 1
  },
  "pending": [
   {
@@ -58,7 +58,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   }
@@ -318,7 +318,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -487,6 +487,11 @@
    "date": "2026-10-22",
    "clicks": 0,
    "impressions": 38
+  },
+  {
+   "date": "2026-10-23",
+   "clicks": 0,
+   "impressions": 41
   }
  ],
  "top_pages": [
@@ -505,26 +510,26 @@
   {
    "page": "/401k-contribution-calculator/",
    "clicks": 0,
-   "impressions": 5,
-   "position": 39.2
+   "impressions": 6,
+   "position": 46
   },
   {
    "page": "/401k-contribution-limits-2026/",
    "clicks": 0,
-   "impressions": 1,
-   "position": 41
+   "impressions": 3,
+   "position": 19.7
   },
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 28,
-   "position": 35.1
+   "impressions": 29,
+   "position": 34.1
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
    "clicks": 0,
-   "impressions": 10,
-   "position": 27.5
+   "impressions": 13,
+   "position": 27.2
   },
   {
    "page": "/debt-snowball-vs-avalanche-2026/",
@@ -535,8 +540,8 @@
   {
    "page": "/emergency-fund-2026-how-much-where/",
    "clicks": 0,
-   "impressions": 10,
-   "position": 69.2
+   "impressions": 11,
+   "position": 70.4
   },
   {
    "page": "/etsy-seller-take-home-2026/",
@@ -547,8 +552,8 @@
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 9,
-   "position": 16.8
+   "impressions": 12,
+   "position": 15.1
   },
   {
    "page": "/high-yield-savings-rates-2026/",
@@ -565,20 +570,20 @@
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 32,
-   "position": 7.3
+   "impressions": 34,
+   "position": 7.5
   },
   {
    "page": "/how-much-does-grubhub-pay-2026/",
    "clicks": 0,
-   "impressions": 51,
-   "position": 28.4
+   "impressions": 59,
+   "position": 27.4
   },
   {
    "page": "/how-much-does-lyft-pay-2026/",
    "clicks": 0,
-   "impressions": 7,
-   "position": 14.1
+   "impressions": 9,
+   "position": 17.7
   }
  ],
  "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"
