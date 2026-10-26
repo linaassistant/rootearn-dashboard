@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T04:01:55.780624Z",
+ "generated": "2026-10-26T05:01:57.128042Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 236,
+   "impressions": 264,
    "ctr": 0,
-   "position": 29.6
+   "position": 30.7
   },
   "d28": {
    "clicks": 1,
-   "impressions": 381,
-   "ctr": 0.26,
-   "position": 33.5
+   "impressions": 409,
+   "ctr": 0.24,
+   "position": 34.0
   },
   "indexed": 57,
   "total_urls": 62,
@@ -52,13 +52,13 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   }
@@ -222,7 +222,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -318,7 +318,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -492,6 +492,11 @@
    "date": "2026-10-23",
    "clicks": 0,
    "impressions": 41
+  },
+  {
+   "date": "2026-10-24",
+   "clicks": 0,
+   "impressions": 28
   }
  ],
  "top_pages": [
@@ -504,8 +509,8 @@
   {
    "page": "/1099-tax-calculator/",
    "clicks": 0,
-   "impressions": 2,
-   "position": 36.5
+   "impressions": 4,
+   "position": 48
   },
   {
    "page": "/401k-contribution-calculator/",
@@ -522,8 +527,8 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 29,
-   "position": 34.1
+   "impressions": 30,
+   "position": 34.5
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
@@ -540,8 +545,8 @@
   {
    "page": "/emergency-fund-2026-how-much-where/",
    "clicks": 0,
-   "impressions": 11,
-   "position": 70.4
+   "impressions": 14,
+   "position": 73.1
   },
   {
    "page": "/etsy-seller-take-home-2026/",
@@ -570,14 +575,14 @@
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 34,
-   "position": 7.5
+   "impressions": 36,
+   "position": 7.6
   },
   {
    "page": "/how-much-does-grubhub-pay-2026/",
    "clicks": 0,
-   "impressions": 59,
-   "position": 27.4
+   "impressions": 66,
+   "position": 28.5
   },
   {
    "page": "/how-much-does-lyft-pay-2026/",
