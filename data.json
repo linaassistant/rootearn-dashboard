@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T03:01:57.256245Z",
+ "generated": "2026-10-27T04:01:57.389489Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,9 +11,9 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 264,
+   "impressions": 225,
    "ctr": 0,
-   "position": 30.7
+   "position": 30.4
   },
   "d28": {
    "clicks": 1,
@@ -28,8 +28,7 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 4,
-  "URL is unknown to Google": 1
+  "Discovered - currently not indexed": 5
  },
  "pending": [
   {
@@ -40,7 +39,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -126,7 +125,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
