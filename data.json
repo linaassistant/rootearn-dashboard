@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T07:01:57.019725Z",
+ "generated": "2026-10-28T08:02:04.820354Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -22,14 +22,13 @@
    "position": 34.0
   },
   "indexed": 57,
-  "total_urls": 62,
-  "not_indexed": 5,
-  "checked_now": 11
+  "total_urls": 63,
+  "not_indexed": 6,
+  "checked_now": 12
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 4,
-  "URL is unknown to Google": 1
+  "Discovered - currently not indexed": 6
  },
  "pending": [
   {
@@ -40,7 +39,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -49,6 +48,12 @@
    "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
+  },
+  {
+   "url": "https://rootearn.com/gig-net-pay-calculator/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
@@ -126,7 +131,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -213,6 +218,12 @@
    "state": "Submitted and indexed",
    "crawl": "2026-09-25",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-income-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/gig-net-pay-calculator/",
+   "state": "Discovered - currently not indexed",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
   {
    "url": "https://rootearn.com/high-yield-savings-rates-2026/",
