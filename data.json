@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T03:01:56.530027Z",
+ "generated": "2026-10-28T04:01:58.829426Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,9 +11,9 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 263,
+   "impressions": 224,
    "ctr": 0,
-   "position": 31.0
+   "position": 31.1
   },
   "d28": {
    "clicks": 1,
@@ -21,15 +21,15 @@
    "ctr": 0.22,
    "position": 34.0
   },
-  "indexed": 56,
+  "indexed": 57,
   "total_urls": 62,
-  "not_indexed": 6,
+  "not_indexed": 5,
   "checked_now": 11
  },
  "coverage_states": {
-  "Submitted and indexed": 56,
+  "Submitted and indexed": 57,
   "URL is unknown to Google": 2,
-  "Discovered - currently not indexed": 3,
+  "Discovered - currently not indexed": 2,
   "ERR: HTTP Error 500: Internal Server Error": 1
  },
  "pending": [
@@ -47,7 +47,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -59,15 +59,9 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/sinking-funds-explained-how-many-you-need/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-funds-explained-how-many-you-need%2F"
   }
  ],
  "url_states": [
@@ -205,7 +199,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -325,7 +319,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -403,8 +397,8 @@
   },
   {
    "url": "https://rootearn.com/sinking-funds-explained-how-many-you-need/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-funds-explained-how-many-you-need%2F"
   },
   {
