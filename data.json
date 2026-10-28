@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T02:01:56.451237Z",
+ "generated": "2026-10-28T03:01:56.530027Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,32 +21,33 @@
    "ctr": 0.22,
    "position": 34.0
   },
-  "indexed": 57,
+  "indexed": 56,
   "total_urls": 62,
-  "not_indexed": 5,
+  "not_indexed": 6,
   "checked_now": 11
  },
  "coverage_states": {
-  "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 4,
-  "URL is unknown to Google": 1
+  "Submitted and indexed": 56,
+  "URL is unknown to Google": 2,
+  "Discovered - currently not indexed": 3,
+  "ERR: HTTP Error 500: Internal Server Error": 1
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -61,6 +62,12 @@
    "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/sinking-funds-explained-how-many-you-need/",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-funds-explained-how-many-you-need%2F"
   }
  ],
  "url_states": [
@@ -120,13 +127,13 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -198,7 +205,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -396,8 +403,8 @@
   },
   {
    "url": "https://rootearn.com/sinking-funds-explained-how-many-you-need/",
-   "state": "Submitted and indexed",
-   "crawl": "2026-10-17",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
+   "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fsinking-funds-explained-how-many-you-need%2F"
   },
   {
