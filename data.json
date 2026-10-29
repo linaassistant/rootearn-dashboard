@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T03:02:02.150237Z",
+ "generated": "2026-10-29T04:02:03.808262Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,9 +11,9 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 245,
+   "impressions": 207,
    "ctr": 0,
-   "position": 30.9
+   "position": 30.0
   },
   "d28": {
    "clicks": 1,
@@ -40,7 +40,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -58,7 +58,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -132,7 +132,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -234,7 +234,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -450,11 +450,6 @@
   }
  ],
  "daily": [
-  {
-   "date": "2026-10-13",
-   "clicks": 1,
-   "impressions": 22
-  },
   {
    "date": "2026-10-14",
    "clicks": 0,
