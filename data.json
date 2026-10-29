@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T05:02:02.537545Z",
+ "generated": "2026-10-29T06:02:02.386958Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -29,7 +29,7 @@
  "coverage_states": {
   "Submitted and indexed": 57,
   "Discovered - currently not indexed": 5,
-  "URL is unknown to Google": 1
+  "ERR: HTTP Error 500: Internal Server Error": 1
  },
  "pending": [
   {
@@ -52,13 +52,13 @@
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -222,7 +222,7 @@
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
@@ -234,7 +234,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
