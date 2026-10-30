@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T06:02:03.494710Z",
+ "generated": "2026-10-30T07:02:03.247325Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,19 +28,18 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "URL is unknown to Google": 4,
-  "Discovered - currently not indexed": 2
+  "Discovered - currently not indexed": 6
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -52,7 +51,7 @@
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
@@ -64,7 +63,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   }
@@ -126,13 +125,13 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -222,7 +221,7 @@
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
@@ -330,7 +329,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
