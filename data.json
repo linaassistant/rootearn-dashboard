@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T03:02:03.078820Z",
+ "generated": "2026-10-30T04:02:03.330221Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,9 +11,9 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 209,
+   "impressions": 168,
    "ctr": 0,
-   "position": 30.0
+   "position": 32.0
   },
   "d28": {
    "clicks": 1,
@@ -28,13 +28,13 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "URL is unknown to Google": 4,
-  "Discovered - currently not indexed": 2
+  "Discovered - currently not indexed": 4,
+  "URL is unknown to Google": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -64,7 +64,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   }
@@ -126,7 +126,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -330,7 +330,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -450,11 +450,6 @@
   }
  ],
  "daily": [
-  {
-   "date": "2026-10-14",
-   "clicks": 0,
-   "impressions": 25
-  },
   {
    "date": "2026-10-15",
    "clicks": 0,
