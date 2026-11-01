@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T03:02:02.771121Z",
+ "generated": "2026-11-01T04:02:03.623991Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,9 +11,9 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 130,
+   "impressions": 89,
    "ctr": 0,
-   "position": 32.8
+   "position": 34.6
   },
   "d28": {
    "clicks": 1,
@@ -28,7 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 6
+  "Discovered - currently not indexed": 5,
+  "URL is unknown to Google": 1
  },
  "pending": [
   {
@@ -51,7 +52,7 @@
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
@@ -221,7 +222,7 @@
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
@@ -449,11 +450,6 @@
   }
  ],
  "daily": [
-  {
-   "date": "2026-10-16",
-   "clicks": 0,
-   "impressions": 52
-  },
   {
    "date": "2026-10-17",
    "clicks": 0,
