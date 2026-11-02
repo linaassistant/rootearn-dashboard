@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T09:07:28.585708Z",
+ "generated": "2026-11-02T10:02:03.884258Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -24,7 +24,7 @@
   "indexed": 57,
   "total_urls": 63,
   "not_indexed": 6,
-  "checked_now": 63
+  "checked_now": 12
  },
  "coverage_states": {
   "Submitted and indexed": 57,
@@ -52,13 +52,13 @@
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -222,7 +222,7 @@
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
@@ -234,7 +234,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
