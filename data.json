@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T09:07:16.721941Z",
+ "generated": "2026-11-06T10:02:13.403509Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,20 +21,20 @@
    "ctr": 0.21,
    "position": 33.9
   },
-  "indexed": 53,
+  "indexed": 57,
   "total_urls": 63,
-  "not_indexed": 10,
+  "not_indexed": 6,
   "checked_now": 12
  },
  "coverage_states": {
-  "Submitted and indexed": 53,
-  "Discovered - currently not indexed": 6,
-  "ERR: The read operation timed out": 4
+  "Submitted and indexed": 57,
+  "URL is unknown to Google": 1,
+  "Discovered - currently not indexed": 5
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -63,34 +63,10 @@
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
   {
-   "url": "https://rootearn.com/hsa-vs-fsa-open-enrollment-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhsa-vs-fsa-open-enrollment-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/instacart-batch-pay-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Finstacart-batch-pay-2026%2F"
-  },
-  {
    "url": "https://rootearn.com/make-money-online-2026/",
    "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/weekend-jobs-that-pay-cash-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fweekend-jobs-that-pay-cash-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/year-end-tax-moves-before-december-31-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fyear-end-tax-moves-before-december-31-2026%2F"
   }
  ],
  "url_states": [
@@ -150,7 +126,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -336,8 +312,8 @@
   },
   {
    "url": "https://rootearn.com/hsa-vs-fsa-open-enrollment-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhsa-vs-fsa-open-enrollment-2026%2F"
   },
   {
@@ -348,8 +324,8 @@
   },
   {
    "url": "https://rootearn.com/instacart-batch-pay-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Finstacart-batch-pay-2026%2F"
   },
   {
@@ -456,8 +432,8 @@
   },
   {
    "url": "https://rootearn.com/weekend-jobs-that-pay-cash-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-17",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fweekend-jobs-that-pay-cash-2026%2F"
   },
   {
@@ -468,8 +444,8 @@
   },
   {
    "url": "https://rootearn.com/year-end-tax-moves-before-december-31-2026/",
-   "state": "ERR: The read operation timed out",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-10-28",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fyear-end-tax-moves-before-december-31-2026%2F"
   }
  ],
