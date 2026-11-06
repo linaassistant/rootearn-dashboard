@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T23:02:02.104932Z",
+ "generated": "2026-11-06T23:25:07.004476Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -22,13 +22,14 @@
    "position": 31.7
   },
   "indexed": 57,
-  "total_urls": 63,
-  "not_indexed": 6,
+  "total_urls": 64,
+  "not_indexed": 7,
   "checked_now": 12
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 6
+  "Discovered - currently not indexed": 6,
+  "URL is unknown to Google": 1
  },
  "pending": [
   {
@@ -60,6 +61,12 @@
    "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-amazon-flex-pay/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-amazon-flex-pay%2F"
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
@@ -242,6 +249,12 @@
    "state": "Submitted and indexed",
    "crawl": "2026-09-20",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-you-need-to-retire%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-does-amazon-flex-pay/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-amazon-flex-pay%2F"
   },
   {
    "url": "https://rootearn.com/how-much-does-doordash-pay/",
