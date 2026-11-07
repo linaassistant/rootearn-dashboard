@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T14:03:06.825288Z",
+ "generated": "2026-11-07T14:07:54.964047Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -22,19 +22,25 @@
    "position": 31.7
   },
   "indexed": 59,
-  "total_urls": 65,
-  "not_indexed": 6,
+  "total_urls": 68,
+  "not_indexed": 9,
   "checked_now": 11
  },
  "coverage_states": {
   "Submitted and indexed": 59,
-  "URL is unknown to Google": 4,
-  "Discovered - currently not indexed": 2
+  "URL is unknown to Google": 6,
+  "Discovered - currently not indexed": 3
  },
  "pending": [
   {
-   "url": "https://rootearn.com/category/freelancing-gig-work/",
+   "url": "https://rootearn.com/amazon-flex-block-rates/",
    "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Famazon-flex-block-rates%2F"
+  },
+  {
+   "url": "https://rootearn.com/category/freelancing-gig-work/",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -46,21 +52,33 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-do-you-make-on-etsy/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-you-make-on-etsy%2F"
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
    "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/overtime-calculator-with-taxes/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-calculator-with-taxes%2F"
   },
   {
    "url": "https://rootearn.com/self-employed-health-insurance-cost-2026/",
@@ -113,6 +131,12 @@
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fall-articles%2F"
   },
   {
+   "url": "https://rootearn.com/amazon-flex-block-rates/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Famazon-flex-block-rates%2F"
+  },
+  {
    "url": "https://rootearn.com/best-side-hustles-2026/",
    "state": "Submitted and indexed",
    "crawl": "2026-10-28",
@@ -126,7 +150,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -204,7 +228,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -234,9 +258,15 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/how-much-do-you-make-on-etsy/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-you-make-on-etsy%2F"
   },
   {
    "url": "https://rootearn.com/how-much-do-you-need-to-retire/",
@@ -339,6 +369,12 @@
    "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
+  },
+  {
+   "url": "https://rootearn.com/overtime-calculator-with-taxes/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fovertime-calculator-with-taxes%2F"
   },
   {
    "url": "https://rootearn.com/overtime-pay-calculator/",
