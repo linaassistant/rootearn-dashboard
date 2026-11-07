@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T08:02:03.712127Z",
+ "generated": "2026-11-07T09:02:02.239145Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,15 +21,15 @@
    "ctr": 0.19,
    "position": 31.7
   },
-  "indexed": 57,
+  "indexed": 58,
   "total_urls": 64,
-  "not_indexed": 7,
+  "not_indexed": 6,
   "checked_now": 12
  },
  "coverage_states": {
-  "Submitted and indexed": 57,
+  "Submitted and indexed": 58,
   "Discovered - currently not indexed": 5,
-  "URL is unknown to Google": 2
+  "Crawled - currently not indexed": 1
  },
  "pending": [
   {
@@ -46,14 +46,14 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Crawled - currently not indexed",
+   "crawl": "2026-11-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
   {
@@ -61,12 +61,6 @@
    "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/how-much-does-amazon-flex-pay/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-amazon-flex-pay%2F"
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
@@ -210,7 +204,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -228,8 +222,8 @@
   },
   {
    "url": "https://rootearn.com/gig-net-pay-calculator/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Crawled - currently not indexed",
+   "crawl": "2026-11-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
   {
@@ -252,8 +246,8 @@
   },
   {
    "url": "https://rootearn.com/how-much-does-amazon-flex-pay/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-11-07",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-does-amazon-flex-pay%2F"
   },
   {
