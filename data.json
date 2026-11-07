@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T14:07:54.964047Z",
+ "generated": "2026-11-07T14:10:18.434639Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -22,14 +22,14 @@
    "position": 31.7
   },
   "indexed": 59,
-  "total_urls": 68,
-  "not_indexed": 9,
+  "total_urls": 69,
+  "not_indexed": 10,
   "checked_now": 11
  },
  "coverage_states": {
   "Submitted and indexed": 59,
-  "URL is unknown to Google": 6,
-  "Discovered - currently not indexed": 3
+  "URL is unknown to Google": 5,
+  "Discovered - currently not indexed": 5
  },
  "pending": [
   {
@@ -57,8 +57,14 @@
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
   {
-   "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
+   "url": "https://rootearn.com/grubhub-vs-doordash-pay/",
    "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgrubhub-vs-doordash-pay%2F"
+  },
+  {
+   "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -70,7 +76,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -251,6 +257,12 @@
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgig-net-pay-calculator%2F"
   },
   {
+   "url": "https://rootearn.com/grubhub-vs-doordash-pay/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgrubhub-vs-doordash-pay%2F"
+  },
+  {
    "url": "https://rootearn.com/high-yield-savings-rates-2026/",
    "state": "Submitted and indexed",
    "crawl": "2026-09-20",
@@ -258,7 +270,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -366,7 +378,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
