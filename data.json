@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T05:02:30.445286Z",
+ "generated": "2026-11-08T06:02:27.170181Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 68,
+   "impressions": 70,
    "ctr": 0,
    "position": 17.5
   },
   "d28": {
    "clicks": 1,
-   "impressions": 538,
+   "impressions": 540,
    "ctr": 0.19,
-   "position": 31.7
+   "position": 31.6
   },
   "indexed": 59,
   "total_urls": 69,
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 59,
-  "URL is unknown to Google": 6,
-  "Discovered - currently not indexed": 4
+  "URL is unknown to Google": 7,
+  "Discovered - currently not indexed": 3
  },
  "pending": [
   {
@@ -40,7 +40,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -156,7 +156,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -574,6 +574,11 @@
    "date": "2026-11-05",
    "clicks": 0,
    "impressions": 1
+  },
+  {
+   "date": "2026-11-06",
+   "clicks": 0,
+   "impressions": 2
   }
  ],
  "top_pages": [
