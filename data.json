@@ -1,24 +1,24 @@
 {
- "generated": "2026-11-09T04:02:27.388864Z",
+ "generated": "2026-11-09T05:02:27.338038Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
   "today": {
    "clicks": 0,
-   "impressions": 2,
-   "ctr": 0,
-   "position": 23.5
+   "impressions": 0,
+   "ctr": 0.0,
+   "position": 0.0
   },
   "d7": {
    "clicks": 0,
    "impressions": 70,
    "ctr": 0,
-   "position": 17.5
+   "position": 16.8
   },
   "d28": {
    "clicks": 1,
-   "impressions": 540,
-   "ctr": 0.19,
+   "impressions": 542,
+   "ctr": 0.18,
    "position": 31.6
   },
   "indexed": 59,
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 59,
-  "URL is unknown to Google": 6,
-  "Discovered - currently not indexed": 4
+  "URL is unknown to Google": 5,
+  "Discovered - currently not indexed": 5
  },
  "pending": [
   {
@@ -52,7 +52,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -234,7 +234,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -511,11 +511,6 @@
  ],
  "daily": [
   {
-   "date": "2026-10-24",
-   "clicks": 0,
-   "impressions": 28
-  },
-  {
    "date": "2026-10-25",
    "clicks": 0,
    "impressions": 38
@@ -577,6 +572,11 @@
   },
   {
    "date": "2026-11-06",
+   "clicks": 0,
+   "impressions": 2
+  },
+  {
+   "date": "2026-11-07",
    "clicks": 0,
    "impressions": 2
   }
