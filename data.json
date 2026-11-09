@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T00:02:27.452766Z",
+ "generated": "2026-11-09T01:02:27.094827Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 59,
-  "URL is unknown to Google": 6,
-  "Discovered - currently not indexed": 4
+  "URL is unknown to Google": 5,
+  "Discovered - currently not indexed": 5
  },
  "pending": [
   {
@@ -52,7 +52,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -234,7 +234,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
