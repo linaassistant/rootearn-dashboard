@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:02:27.241155Z",
+ "generated": "2026-11-10T05:02:28.323578Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -13,11 +13,11 @@
    "clicks": 0,
    "impressions": 70,
    "ctr": 0,
-   "position": 16.8
+   "position": 16.7
   },
   "d28": {
    "clicks": 1,
-   "impressions": 542,
+   "impressions": 543,
    "ctr": 0.18,
    "position": 31.6
   },
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 59,
-  "URL is unknown to Google": 9,
-  "Discovered - currently not indexed": 2
+  "URL is unknown to Google": 8,
+  "Discovered - currently not indexed": 3
  },
  "pending": [
   {
@@ -82,7 +82,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -390,7 +390,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -523,11 +523,6 @@
  ],
  "daily": [
   {
-   "date": "2026-10-25",
-   "clicks": 0,
-   "impressions": 38
-  },
-  {
    "date": "2026-10-26",
    "clicks": 0,
    "impressions": 21
@@ -591,6 +586,11 @@
    "date": "2026-11-07",
    "clicks": 0,
    "impressions": 2
+  },
+  {
+   "date": "2026-11-08",
+   "clicks": 0,
+   "impressions": 1
   }
  ],
  "top_pages": [
