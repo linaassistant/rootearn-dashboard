@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T14:08:24.790626Z",
+ "generated": "2026-11-11T15:02:28.793644Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -24,12 +24,12 @@
   "indexed": 59,
   "total_urls": 70,
   "not_indexed": 11,
-  "checked_now": 70
+  "checked_now": 16
  },
  "coverage_states": {
   "Submitted and indexed": 59,
-  "Discovered - currently not indexed": 3,
-  "URL is unknown to Google": 8
+  "Discovered - currently not indexed": 4,
+  "URL is unknown to Google": 7
  },
  "pending": [
   {
@@ -82,7 +82,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -390,7 +390,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
