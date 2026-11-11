@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T04:00:49.740430Z",
+ "generated": "2026-11-11T05:00:49.886414Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,9 +11,9 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 70,
+   "impressions": 69,
    "ctr": 0,
-   "position": 16.7
+   "position": 16.2
   },
   "d28": {
    "clicks": 1,
@@ -30,11 +30,6 @@
  "pending": [],
  "url_states": [],
  "daily": [
-  {
-   "date": "2026-10-26",
-   "clicks": 0,
-   "impressions": 21
-  },
   {
    "date": "2026-10-27",
    "clicks": 0,
