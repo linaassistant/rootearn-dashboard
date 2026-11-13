@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T04:00:49.915831Z",
+ "generated": "2026-11-13T05:00:54.541926Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 69,
+   "impressions": 6,
    "ctr": 0,
-   "position": 16.2
+   "position": 28.2
   },
   "d28": {
    "clicks": 0,
-   "impressions": 521,
+   "impressions": 496,
    "ctr": 0,
-   "position": 31.7
+   "position": 31.9
   },
   "indexed": 0,
   "total_urls": 0,
@@ -30,11 +30,6 @@
  "pending": [],
  "url_states": [],
  "daily": [
-  {
-   "date": "2026-10-28",
-   "clicks": 0,
-   "impressions": 0
-  },
   {
    "date": "2026-10-29",
    "clicks": 0,
@@ -123,14 +118,14 @@
   {
    "page": "/401k-contribution-limits-2026/",
    "clicks": 0,
-   "impressions": 3,
-   "position": 19.7
+   "impressions": 2,
+   "position": 9
   },
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 32,
-   "position": 35.4
+   "impressions": 31,
+   "position": 35.3
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
@@ -147,8 +142,8 @@
   {
    "page": "/debt-snowball-vs-avalanche-2026/",
    "clicks": 0,
-   "impressions": 2,
-   "position": 88
+   "impressions": 1,
+   "position": 77
   },
   {
    "page": "/emergency-fund-2026-how-much-where/",
@@ -165,8 +160,8 @@
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 14,
-   "position": 12.4
+   "impressions": 11,
+   "position": 12.8
   },
   {
    "page": "/gig-income-2026/",
@@ -177,19 +172,19 @@
   {
    "page": "/high-yield-savings-rates-2026/",
    "clicks": 0,
-   "impressions": 4,
+   "impressions": 2,
    "position": 75.5
   },
   {
    "page": "/how-much-does-doordash-pay/",
    "clicks": 0,
-   "impressions": 8,
-   "position": 10
+   "impressions": 7,
+   "position": 9.9
   },
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 39,
+   "impressions": 37,
    "position": 7.9
   }
  ],
