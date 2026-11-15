@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T04:00:47.789913Z",
+ "generated": "2026-11-15T05:00:49.418665Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -13,13 +13,13 @@
    "clicks": 0,
    "impressions": 5,
    "ctr": 0,
-   "position": 26.6
+   "position": 47
   },
   "d28": {
    "clicks": 0,
-   "impressions": 472,
+   "impressions": 422,
    "ctr": 0,
-   "position": 32.4
+   "position": 29.1
   },
   "indexed": 0,
   "total_urls": 0,
@@ -30,11 +30,6 @@
  "pending": [],
  "url_states": [],
  "daily": [
-  {
-   "date": "2026-10-30",
-   "clicks": 0,
-   "impressions": 0
-  },
   {
    "date": "2026-10-31",
    "clicks": 0,
@@ -99,6 +94,11 @@
    "date": "2026-11-12",
    "clicks": 0,
    "impressions": 0
+  },
+  {
+   "date": "2026-11-13",
+   "clicks": 0,
+   "impressions": 2
   }
  ],
  "top_pages": [
@@ -111,14 +111,14 @@
   {
    "page": "/1099-tax-calculator/",
    "clicks": 0,
-   "impressions": 5,
-   "position": 41.2
+   "impressions": 4,
+   "position": 41
   },
   {
    "page": "/401k-contribution-calculator/",
    "clicks": 0,
-   "impressions": 4,
-   "position": 50.2
+   "impressions": 3,
+   "position": 55.7
   },
   {
    "page": "/401k-contribution-limits-2026/",
@@ -129,14 +129,14 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 29,
-   "position": 34.2
+   "impressions": 28,
+   "position": 33.9
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
    "clicks": 0,
-   "impressions": 50,
-   "position": 14.0
+   "impressions": 49,
+   "position": 12.3
   },
   {
    "page": "/credit-score-range-2026/",
@@ -153,20 +153,14 @@
   {
    "page": "/emergency-fund-2026-how-much-where/",
    "clicks": 0,
-   "impressions": 11,
-   "position": 73.9
-  },
-  {
-   "page": "/etsy-seller-take-home-2026/",
-   "clicks": 0,
-   "impressions": 1,
-   "position": 99
+   "impressions": 10,
+   "position": 74.5
   },
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 11,
-   "position": 12.8
+   "impressions": 10,
+   "position": 13.1
   },
   {
    "page": "/gig-income-2026/",
@@ -181,6 +175,12 @@
    "position": 75.5
   },
   {
+   "page": "/how-much-does-amazon-flex-pay/",
+   "clicks": 0,
+   "impressions": 1,
+   "position": 55
+  },
+  {
    "page": "/how-much-does-doordash-pay/",
    "clicks": 0,
    "impressions": 6,
@@ -189,8 +189,8 @@
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 32,
-   "position": 7.7
+   "impressions": 29,
+   "position": 7.6
   }
  ],
  "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"
