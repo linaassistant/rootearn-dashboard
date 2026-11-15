@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T15:02:44.839453Z",
+ "generated": "2026-11-15T16:02:47.436551Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -22,20 +22,20 @@
    "position": 29.1
   },
   "indexed": 57,
-  "total_urls": 74,
-  "not_indexed": 17,
+  "total_urls": 75,
+  "not_indexed": 18,
   "checked_now": 19
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 7,
-  "URL is unknown to Google": 8,
+  "URL is unknown to Google": 10,
+  "Discovered - currently not indexed": 6,
   "Crawled - currently not indexed": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -134,6 +134,12 @@
    "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
+  },
+  {
+   "url": "https://rootearn.com/uber-driver-pay-2026/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fuber-driver-pay-2026%2F"
   }
  ],
  "url_states": [
@@ -193,7 +199,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -556,6 +562,12 @@
    "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
+  },
+  {
+   "url": "https://rootearn.com/uber-driver-pay-2026/",
+   "state": "URL is unknown to Google",
+   "crawl": "",
+   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fuber-driver-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/upwork-for-beginners-2026/",
