@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T00:02:47.514087Z",
+ "generated": "2026-11-17T01:02:45.770086Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,8 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 8,
-  "URL is unknown to Google": 9,
+  "Discovered - currently not indexed": 7,
+  "URL is unknown to Google": 10,
   "Crawled - currently not indexed": 2
  },
  "pending": [
@@ -65,7 +65,7 @@
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -83,7 +83,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -95,13 +95,13 @@
   },
   {
    "url": "https://rootearn.com/gopuff-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgopuff-driver-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -113,7 +113,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -277,7 +277,7 @@
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -307,7 +307,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -337,7 +337,7 @@
   },
   {
    "url": "https://rootearn.com/gopuff-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgopuff-driver-pay-2026%2F"
   },
@@ -349,7 +349,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -457,7 +457,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
