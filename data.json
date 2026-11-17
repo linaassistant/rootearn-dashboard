@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T06:02:47.210203Z",
+ "generated": "2026-11-17T07:02:46.094383Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 4,
+   "impressions": 5,
    "ctr": 0,
-   "position": 61
+   "position": 61.6
   },
   "d28": {
    "clicks": 0,
-   "impressions": 363,
+   "impressions": 364,
    "ctr": 0,
-   "position": 28.6
+   "position": 28.7
   },
   "indexed": 57,
   "total_urls": 76,
@@ -29,8 +29,8 @@
  "coverage_states": {
   "Submitted and indexed": 57,
   "URL is unknown to Google": 10,
-  "Crawled - currently not indexed": 2,
-  "Discovered - currently not indexed": 7
+  "Discovered - currently not indexed": 7,
+  "Crawled - currently not indexed": 2
  },
  "pending": [
   {
@@ -41,7 +41,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -83,7 +83,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -211,7 +211,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -307,7 +307,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -671,6 +671,11 @@
    "date": "2026-11-14",
    "clicks": 0,
    "impressions": 2
+  },
+  {
+   "date": "2026-11-15",
+   "clicks": 0,
+   "impressions": 1
   }
  ],
  "top_pages": [
@@ -743,8 +748,8 @@
   {
    "page": "/how-much-does-amazon-flex-pay/",
    "clicks": 0,
-   "impressions": 3,
-   "position": 52.3
+   "impressions": 4,
+   "position": 55.2
   },
   {
    "page": "/how-much-does-doordash-pay/",
