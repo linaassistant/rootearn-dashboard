@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T04:02:46.915568Z",
+ "generated": "2026-11-17T05:02:46.631627Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 5,
+   "impressions": 4,
    "ctr": 0,
-   "position": 58
+   "position": 61
   },
   "d28": {
    "clicks": 0,
-   "impressions": 402,
+   "impressions": 363,
    "ctr": 0,
-   "position": 28.9
+   "position": 28.6
   },
   "indexed": 57,
   "total_urls": 76,
@@ -28,14 +28,14 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 6,
   "URL is unknown to Google": 11,
-  "Crawled - currently not indexed": 2
+  "Crawled - currently not indexed": 2,
+  "Discovered - currently not indexed": 6
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -83,7 +83,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -113,7 +113,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -131,7 +131,7 @@
   },
   {
    "url": "https://rootearn.com/shipt-shopper-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fshipt-shopper-pay-2026%2F"
   },
@@ -205,7 +205,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -307,7 +307,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -457,7 +457,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -535,7 +535,7 @@
   },
   {
    "url": "https://rootearn.com/shipt-shopper-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fshipt-shopper-pay-2026%2F"
   },
@@ -607,11 +607,6 @@
   }
  ],
  "daily": [
-  {
-   "date": "2026-11-01",
-   "clicks": 0,
-   "impressions": 1
-  },
   {
    "date": "2026-11-02",
    "clicks": 0,
@@ -706,14 +701,14 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 27,
-   "position": 32.9
+   "impressions": 26,
+   "position": 33.8
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
    "clicks": 0,
-   "impressions": 48,
-   "position": 12.4
+   "impressions": 47,
+   "position": 12.5
   },
   {
    "page": "/credit-score-range-2026/",
@@ -722,16 +717,10 @@
    "position": 8
   },
   {
-   "page": "/debt-snowball-vs-avalanche-2026/",
-   "clicks": 0,
-   "impressions": 1,
-   "position": 77
-  },
-  {
    "page": "/emergency-fund-2026-how-much-where/",
    "clicks": 0,
-   "impressions": 6,
-   "position": 70.8
+   "impressions": 5,
+   "position": 67.6
   },
   {
    "page": "/gig-apps-same-day-pay-2026/",
@@ -748,8 +737,8 @@
   {
    "page": "/high-yield-savings-rates-2026/",
    "clicks": 0,
-   "impressions": 2,
-   "position": 75.5
+   "impressions": 1,
+   "position": 77
   },
   {
    "page": "/how-much-does-amazon-flex-pay/",
@@ -760,14 +749,20 @@
   {
    "page": "/how-much-does-doordash-pay/",
    "clicks": 0,
-   "impressions": 5,
-   "position": 9.4
+   "impressions": 4,
+   "position": 9.2
   },
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 26,
-   "position": 7.4
+   "impressions": 23,
+   "position": 7.7
+  },
+  {
+   "page": "/how-much-does-grubhub-pay-2026/",
+   "clicks": 0,
+   "impressions": 55,
+   "position": 29.1
   }
  ],
  "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"
