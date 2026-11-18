@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T08:00:52.326123Z",
+ "generated": "2026-11-18T09:00:50.409045Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -94,6 +94,11 @@
    "date": "2026-11-15",
    "clicks": 0,
    "impressions": 1
+  },
+  {
+   "date": "2026-11-16",
+   "clicks": 0,
+   "impressions": 0
   }
  ],
  "top_pages": [
