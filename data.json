@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T17:09:13.734811Z",
+ "generated": "2026-11-20T18:08:12.154549Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -24,18 +24,19 @@
   "indexed": 57,
   "total_urls": 80,
   "not_indexed": 23,
-  "checked_now": 80
+  "checked_now": 23
  },
  "coverage_states": {
   "Submitted and indexed": 57,
+  "Discovered - currently not indexed": 6,
   "URL is unknown to Google": 11,
-  "Discovered - currently not indexed": 10,
-  "Crawled - currently not indexed": 2
+  "Crawled - currently not indexed": 2,
+  "ERR: The read operation timed out": 4
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -65,7 +66,7 @@
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: The read operation timed out",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -77,7 +78,7 @@
   },
   {
    "url": "https://rootearn.com/editorial-policy/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Feditorial-policy%2F"
   },
@@ -101,13 +102,13 @@
   },
   {
    "url": "https://rootearn.com/gopuff-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "ERR: The read operation timed out",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgopuff-driver-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -131,7 +132,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -143,7 +144,7 @@
   },
   {
    "url": "https://rootearn.com/self-employed-health-insurance-cost-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "ERR: The read operation timed out",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employed-health-insurance-cost-2026%2F"
   },
@@ -155,19 +156,19 @@
   },
   {
    "url": "https://rootearn.com/terms/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
   },
   {
    "url": "https://rootearn.com/uber-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fuber-driver-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/ups-driver-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: The read operation timed out",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fups-driver-pay-2026%2F"
   }
@@ -229,7 +230,7 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
@@ -301,7 +302,7 @@
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: The read operation timed out",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -313,7 +314,7 @@
   },
   {
    "url": "https://rootearn.com/editorial-policy/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Feditorial-policy%2F"
   },
@@ -367,7 +368,7 @@
   },
   {
    "url": "https://rootearn.com/gopuff-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "ERR: The read operation timed out",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgopuff-driver-pay-2026%2F"
   },
@@ -379,7 +380,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -499,7 +500,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -559,7 +560,7 @@
   },
   {
    "url": "https://rootearn.com/self-employed-health-insurance-cost-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "ERR: The read operation timed out",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employed-health-insurance-cost-2026%2F"
   },
@@ -613,19 +614,19 @@
   },
   {
    "url": "https://rootearn.com/terms/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
   },
   {
    "url": "https://rootearn.com/uber-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fuber-driver-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/ups-driver-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: The read operation timed out",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fups-driver-pay-2026%2F"
   },
