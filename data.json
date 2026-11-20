@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T04:00:49.806099Z",
+ "generated": "2026-11-20T05:00:49.790430Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -17,9 +17,9 @@
   },
   "d28": {
    "clicks": 0,
-   "impressions": 290,
+   "impressions": 249,
    "ctr": 0,
-   "position": 27.8
+   "position": 28.8
   },
   "indexed": 0,
   "total_urls": 0,
@@ -30,11 +30,6 @@
  "pending": [],
  "url_states": [],
  "daily": [
-  {
-   "date": "2026-11-04",
-   "clicks": 0,
-   "impressions": 63
-  },
   {
    "date": "2026-11-05",
    "clicks": 0,
@@ -129,14 +124,14 @@
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 17,
-   "position": 33.9
+   "impressions": 11,
+   "position": 36.6
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
    "clicks": 0,
-   "impressions": 46,
-   "position": 11.8
+   "impressions": 44,
+   "position": 10.5
   },
   {
    "page": "/credit-score-range-2026/",
@@ -147,8 +142,8 @@
   {
    "page": "/emergency-fund-2026-how-much-where/",
    "clicks": 0,
-   "impressions": 5,
-   "position": 67.6
+   "impressions": 4,
+   "position": 82.8
   },
   {
    "page": "/gig-apps-same-day-pay-2026/",
@@ -177,20 +172,20 @@
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 17,
-   "position": 7.8
+   "impressions": 13,
+   "position": 8.5
   },
   {
    "page": "/how-much-does-grubhub-pay-2026/",
    "clicks": 0,
-   "impressions": 41,
-   "position": 30.3
+   "impressions": 34,
+   "position": 31.3
   },
   {
    "page": "/how-much-does-lyft-pay-2026/",
    "clicks": 0,
-   "impressions": 11,
-   "position": 25.5
+   "impressions": 10,
+   "position": 27.3
   }
  ],
  "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"
