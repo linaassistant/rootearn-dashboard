@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T06:03:12.428455Z",
+ "generated": "2026-11-21T07:03:11.057122Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,9 +28,9 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 19,
+  "Discovered - currently not indexed": 16,
   "Crawled - currently not indexed": 2,
-  "URL is unknown to Google": 2
+  "URL is unknown to Google": 5
  },
  "pending": [
   {
@@ -65,7 +65,7 @@
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -143,25 +143,25 @@
   },
   {
    "url": "https://rootearn.com/self-employed-health-insurance-cost-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employed-health-insurance-cost-2026%2F"
   },
   {
    "url": "https://rootearn.com/shipt-shopper-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fshipt-shopper-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/terms/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
   },
   {
    "url": "https://rootearn.com/uber-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fuber-driver-pay-2026%2F"
   },
@@ -301,7 +301,7 @@
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -559,7 +559,7 @@
   },
   {
    "url": "https://rootearn.com/self-employed-health-insurance-cost-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employed-health-insurance-cost-2026%2F"
   },
@@ -577,7 +577,7 @@
   },
   {
    "url": "https://rootearn.com/shipt-shopper-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fshipt-shopper-pay-2026%2F"
   },
@@ -613,13 +613,13 @@
   },
   {
    "url": "https://rootearn.com/terms/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
   },
   {
    "url": "https://rootearn.com/uber-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fuber-driver-pay-2026%2F"
   },
@@ -717,6 +717,11 @@
   },
   {
    "date": "2026-11-18",
+   "clicks": 0,
+   "impressions": 0
+  },
+  {
+   "date": "2026-11-19",
    "clicks": 0,
    "impressions": 0
   }
