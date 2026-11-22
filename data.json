@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:00:49.587754Z",
+ "generated": "2026-11-22T09:00:49.942653Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 6,
+   "impressions": 7,
    "ctr": 0,
-   "position": 57.7
+   "position": 56.6
   },
   "d28": {
    "clicks": 0,
-   "impressions": 170,
+   "impressions": 171,
    "ctr": 0,
-   "position": 28.8
+   "position": 28.9
   },
   "indexed": 0,
   "total_urls": 0,
@@ -94,6 +94,11 @@
    "date": "2026-11-19",
    "clicks": 0,
    "impressions": 0
+  },
+  {
+   "date": "2026-11-20",
+   "clicks": 0,
+   "impressions": 1
   }
  ],
  "top_pages": [
@@ -148,8 +153,8 @@
   {
    "page": "/how-much-does-amazon-flex-pay/",
    "clicks": 0,
-   "impressions": 7,
-   "position": 57.3
+   "impressions": 8,
+   "position": 56.4
   },
   {
    "page": "/how-much-does-doordash-pay/",
