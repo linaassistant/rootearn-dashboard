@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T03:03:23.690541Z",
+ "generated": "2026-11-23T04:03:24.363229Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,14 +28,15 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "URL is unknown to Google": 6,
-  "Discovered - currently not indexed": 17,
+  "Discovered - currently not indexed": 21,
+  "URL is unknown to Google": 1,
+  "ERR: HTTP Error 500: Internal Server Error": 1,
   "Crawled - currently not indexed": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/airbnb-host-income-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fairbnb-host-income-2026%2F"
   },
@@ -53,7 +54,7 @@
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -89,7 +90,7 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
@@ -125,7 +126,7 @@
   },
   {
    "url": "https://rootearn.com/how-much-do-rover-sitters-make/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-rover-sitters-make%2F"
   },
@@ -179,7 +180,7 @@
   },
   {
    "url": "https://rootearn.com/virtual-assistant-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fvirtual-assistant-pay-2026%2F"
   }
@@ -223,7 +224,7 @@
   },
   {
    "url": "https://rootearn.com/airbnb-host-income-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fairbnb-host-income-2026%2F"
   },
@@ -295,7 +296,7 @@
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -349,7 +350,7 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
@@ -409,7 +410,7 @@
   },
   {
    "url": "https://rootearn.com/how-much-do-rover-sitters-make/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-rover-sitters-make%2F"
   },
@@ -655,7 +656,7 @@
   },
   {
    "url": "https://rootearn.com/virtual-assistant-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fvirtual-assistant-pay-2026%2F"
   },
