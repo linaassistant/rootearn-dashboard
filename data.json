@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T04:03:24.363229Z",
+ "generated": "2026-11-23T05:03:23.667455Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 7,
+   "impressions": 5,
    "ctr": 0,
-   "position": 56.6
+   "position": 58.8
   },
   "d28": {
    "clicks": 0,
-   "impressions": 171,
+   "impressions": 143,
    "ctr": 0,
-   "position": 28.9
+   "position": 26.7
   },
   "indexed": 57,
   "total_urls": 82,
@@ -28,15 +28,14 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 21,
-  "URL is unknown to Google": 1,
-  "ERR: HTTP Error 500: Internal Server Error": 1,
+  "URL is unknown to Google": 9,
+  "Discovered - currently not indexed": 14,
   "Crawled - currently not indexed": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/airbnb-host-income-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fairbnb-host-income-2026%2F"
   },
@@ -48,13 +47,13 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -66,13 +65,13 @@
   },
   {
    "url": "https://rootearn.com/disclaimer/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdisclaimer%2F"
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -84,19 +83,19 @@
   },
   {
    "url": "https://rootearn.com/editorial-policy/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Feditorial-policy%2F"
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -126,13 +125,13 @@
   },
   {
    "url": "https://rootearn.com/how-much-do-rover-sitters-make/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-rover-sitters-make%2F"
   },
   {
    "url": "https://rootearn.com/how-much-do-twitch-streamers-make/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-twitch-streamers-make%2F"
   },
@@ -150,7 +149,7 @@
   },
   {
    "url": "https://rootearn.com/self-employed-health-insurance-cost-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employed-health-insurance-cost-2026%2F"
   },
@@ -224,7 +223,7 @@
   },
   {
    "url": "https://rootearn.com/airbnb-host-income-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fairbnb-host-income-2026%2F"
   },
@@ -254,7 +253,7 @@
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -296,7 +295,7 @@
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "ERR: HTTP Error 500: Internal Server Error",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -314,13 +313,13 @@
   },
   {
    "url": "https://rootearn.com/disclaimer/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdisclaimer%2F"
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -332,7 +331,7 @@
   },
   {
    "url": "https://rootearn.com/editorial-policy/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Feditorial-policy%2F"
   },
@@ -350,13 +349,13 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -410,13 +409,13 @@
   },
   {
    "url": "https://rootearn.com/how-much-do-rover-sitters-make/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-rover-sitters-make%2F"
   },
   {
    "url": "https://rootearn.com/how-much-do-twitch-streamers-make/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-twitch-streamers-make%2F"
   },
@@ -578,7 +577,7 @@
   },
   {
    "url": "https://rootearn.com/self-employed-health-insurance-cost-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employed-health-insurance-cost-2026%2F"
   },
@@ -681,11 +680,6 @@
  ],
  "daily": [
   {
-   "date": "2026-11-07",
-   "clicks": 0,
-   "impressions": 2
-  },
-  {
    "date": "2026-11-08",
    "clicks": 0,
    "impressions": 1
@@ -749,6 +743,11 @@
    "date": "2026-11-20",
    "clicks": 0,
    "impressions": 1
+  },
+  {
+   "date": "2026-11-21",
+   "clicks": 0,
+   "impressions": 0
   }
  ],
  "top_pages": [
@@ -761,14 +760,14 @@
   {
    "page": "/1099-tax-calculator/",
    "clicks": 0,
-   "impressions": 3,
-   "position": 44.3
+   "impressions": 1,
+   "position": 14
   },
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 4,
-   "position": 36.8
+   "impressions": 3,
+   "position": 34.3
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
@@ -781,12 +780,6 @@
    "clicks": 0,
    "impressions": 1,
    "position": 8
-  },
-  {
-   "page": "/emergency-fund-2026-how-much-where/",
-   "clicks": 0,
-   "impressions": 3,
-   "position": 83
   },
   {
    "page": "/gig-apps-same-day-pay-2026/",
@@ -815,14 +808,14 @@
   {
    "page": "/how-much-does-fiverr-pay/",
    "clicks": 0,
-   "impressions": 7,
-   "position": 9.9
+   "impressions": 5,
+   "position": 9.8
   },
   {
    "page": "/how-much-does-grubhub-pay-2026/",
    "clicks": 0,
-   "impressions": 23,
-   "position": 33.7
+   "impressions": 16,
+   "position": 31.7
   },
   {
    "page": "/how-much-does-lyft-pay-2026/",
@@ -833,14 +826,20 @@
   {
    "page": "/how-much-does-taskrabbit-pay-2026/",
    "clicks": 0,
-   "impressions": 6,
-   "position": 24.7
+   "impressions": 4,
+   "position": 20.5
   },
   {
-   "page": "/how-much-does-tiktok-pay/",
+   "page": "/how-much-does-uber-eats-pay-2026/",
    "clicks": 0,
-   "impressions": 1,
-   "position": 11
+   "impressions": 4,
+   "position": 8.2
+  },
+  {
+   "page": "/how-much-does-walmart-spark-pay-2026/",
+   "clicks": 0,
+   "impressions": 7,
+   "position": 17.9
   }
  ],
  "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"
