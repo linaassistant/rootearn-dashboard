@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T05:03:23.667455Z",
+ "generated": "2026-11-23T06:03:26.506343Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,14 +28,15 @@
  },
  "coverage_states": {
   "Submitted and indexed": 57,
+  "ERR: HTTP Error 500: Internal Server Error": 1,
+  "Discovered - currently not indexed": 13,
   "URL is unknown to Google": 9,
-  "Discovered - currently not indexed": 14,
   "Crawled - currently not indexed": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/airbnb-host-income-2026/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fairbnb-host-income-2026%2F"
   },
@@ -53,7 +54,7 @@
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -83,19 +84,19 @@
   },
   {
    "url": "https://rootearn.com/editorial-policy/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Feditorial-policy%2F"
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -125,7 +126,7 @@
   },
   {
    "url": "https://rootearn.com/how-much-do-rover-sitters-make/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-rover-sitters-make%2F"
   },
@@ -137,13 +138,13 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
   {
    "url": "https://rootearn.com/roadie-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Froadie-driver-pay-2026%2F"
   },
@@ -155,7 +156,7 @@
   },
   {
    "url": "https://rootearn.com/shipt-shopper-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fshipt-shopper-pay-2026%2F"
   },
@@ -173,7 +174,7 @@
   },
   {
    "url": "https://rootearn.com/ups-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fups-driver-pay-2026%2F"
   },
@@ -223,7 +224,7 @@
   },
   {
    "url": "https://rootearn.com/airbnb-host-income-2026/",
-   "state": "URL is unknown to Google",
+   "state": "ERR: HTTP Error 500: Internal Server Error",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fairbnb-host-income-2026%2F"
   },
@@ -295,7 +296,7 @@
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -331,7 +332,7 @@
   },
   {
    "url": "https://rootearn.com/editorial-policy/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Feditorial-policy%2F"
   },
@@ -349,13 +350,13 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -409,7 +410,7 @@
   },
   {
    "url": "https://rootearn.com/how-much-do-rover-sitters-make/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-rover-sitters-make%2F"
   },
@@ -517,7 +518,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -547,7 +548,7 @@
   },
   {
    "url": "https://rootearn.com/roadie-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Froadie-driver-pay-2026%2F"
   },
@@ -595,7 +596,7 @@
   },
   {
    "url": "https://rootearn.com/shipt-shopper-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fshipt-shopper-pay-2026%2F"
   },
@@ -643,7 +644,7 @@
   },
   {
    "url": "https://rootearn.com/ups-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fups-driver-pay-2026%2F"
   },
