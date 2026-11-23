@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T14:03:28.143081Z",
+ "generated": "2026-11-23T15:03:32.670413Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -21,22 +21,22 @@
    "ctr": 0,
    "position": 26.7
   },
-  "indexed": 57,
+  "indexed": 62,
   "total_urls": 82,
-  "not_indexed": 25,
+  "not_indexed": 20,
   "checked_now": 25
  },
  "coverage_states": {
-  "Submitted and indexed": 57,
-  "Discovered - currently not indexed": 19,
-  "URL is unknown to Google": 4,
-  "Crawled - currently not indexed": 2
+  "Submitted and indexed": 62,
+  "Crawled - currently not indexed": 3,
+  "Discovered - currently not indexed": 14,
+  "URL is unknown to Google": 3
  },
  "pending": [
   {
    "url": "https://rootearn.com/airbnb-host-income-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Crawled - currently not indexed",
+   "crawl": "2026-11-23",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fairbnb-host-income-2026%2F"
   },
   {
@@ -89,7 +89,7 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
@@ -101,37 +101,19 @@
   },
   {
    "url": "https://rootearn.com/freelance-rate-calculator/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffreelance-rate-calculator%2F"
   },
   {
-   "url": "https://rootearn.com/gopuff-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgopuff-driver-pay-2026%2F"
-  },
-  {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
   {
-   "url": "https://rootearn.com/hopskipdrive-pay-2026/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhopskipdrive-pay-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/how-much-do-rover-sitters-make/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-rover-sitters-make%2F"
-  },
-  {
    "url": "https://rootearn.com/how-much-do-twitch-streamers-make/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-twitch-streamers-make%2F"
   },
@@ -170,18 +152,6 @@
    "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fuber-driver-pay-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/ups-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fups-driver-pay-2026%2F"
-  },
-  {
-   "url": "https://rootearn.com/virtual-assistant-pay-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
-   "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fvirtual-assistant-pay-2026%2F"
   }
  ],
  "url_states": [
@@ -223,8 +193,8 @@
   },
   {
    "url": "https://rootearn.com/airbnb-host-income-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Crawled - currently not indexed",
+   "crawl": "2026-11-23",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fairbnb-host-income-2026%2F"
   },
   {
@@ -349,7 +319,7 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
@@ -361,7 +331,7 @@
   },
   {
    "url": "https://rootearn.com/freelance-rate-calculator/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffreelance-rate-calculator%2F"
   },
@@ -385,8 +355,8 @@
   },
   {
    "url": "https://rootearn.com/gopuff-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-11-23",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fgopuff-driver-pay-2026%2F"
   },
   {
@@ -397,25 +367,25 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
   {
    "url": "https://rootearn.com/hopskipdrive-pay-2026/",
-   "state": "URL is unknown to Google",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-11-23",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhopskipdrive-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/how-much-do-rover-sitters-make/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-11-23",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-rover-sitters-make%2F"
   },
   {
    "url": "https://rootearn.com/how-much-do-twitch-streamers-make/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-twitch-streamers-make%2F"
   },
@@ -643,8 +613,8 @@
   },
   {
    "url": "https://rootearn.com/ups-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-11-23",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fups-driver-pay-2026%2F"
   },
   {
@@ -655,8 +625,8 @@
   },
   {
    "url": "https://rootearn.com/virtual-assistant-pay-2026/",
-   "state": "Discovered - currently not indexed",
-   "crawl": "",
+   "state": "Submitted and indexed",
+   "crawl": "2026-11-23",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fvirtual-assistant-pay-2026%2F"
   },
   {
