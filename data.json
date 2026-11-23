@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T20:03:14.878331Z",
+ "generated": "2026-11-23T21:03:14.004056Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,9 +28,9 @@
  },
  "coverage_states": {
   "Submitted and indexed": 64,
-  "Discovered - currently not indexed": 12,
+  "Discovered - currently not indexed": 13,
   "Crawled - currently not indexed": 2,
-  "URL is unknown to Google": 4
+  "URL is unknown to Google": 3
  },
  "pending": [
   {
@@ -59,7 +59,7 @@
   },
   {
    "url": "https://rootearn.com/disclaimer/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdisclaimer%2F"
   },
@@ -95,7 +95,7 @@
   },
   {
    "url": "https://rootearn.com/freelance-rate-calculator/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffreelance-rate-calculator%2F"
   },
@@ -113,7 +113,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -271,7 +271,7 @@
   },
   {
    "url": "https://rootearn.com/disclaimer/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdisclaimer%2F"
   },
@@ -319,7 +319,7 @@
   },
   {
    "url": "https://rootearn.com/freelance-rate-calculator/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffreelance-rate-calculator%2F"
   },
@@ -475,7 +475,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
