@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T07:03:17.487739Z",
+ "generated": "2026-11-24T08:03:11.954679Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -11,15 +11,15 @@
   },
   "d7": {
    "clicks": 0,
-   "impressions": 4,
+   "impressions": 6,
    "ctr": 0,
-   "position": 57.5
+   "position": 40.5
   },
   "d28": {
    "clicks": 0,
-   "impressions": 105,
+   "impressions": 107,
    "ctr": 0,
-   "position": 23.9
+   "position": 23.6
   },
   "indexed": 64,
   "total_urls": 82,
@@ -77,7 +77,7 @@
   },
   {
    "url": "https://rootearn.com/editorial-policy/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Feditorial-policy%2F"
   },
@@ -89,7 +89,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -101,7 +101,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -131,7 +131,7 @@
   },
   {
    "url": "https://rootearn.com/terms/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
   },
@@ -289,7 +289,7 @@
   },
   {
    "url": "https://rootearn.com/editorial-policy/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Feditorial-policy%2F"
   },
@@ -313,7 +313,7 @@
   },
   {
    "url": "https://rootearn.com/free-tools/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffree-tools%2F"
   },
@@ -355,7 +355,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -589,7 +589,7 @@
   },
   {
    "url": "https://rootearn.com/terms/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
   },
@@ -701,26 +701,61 @@
    "date": "2026-11-21",
    "clicks": 0,
    "impressions": 0
+  },
+  {
+   "date": "2026-11-22",
+   "clicks": 0,
+   "impressions": 2
   }
  ],
  "top_pages": [
   {
    "page": "/",
    "clicks": 0,
+   "impressions": 3,
+   "position": 7.7
+  },
+  {
+   "page": "/1099-tax-calculator/",
+   "clicks": 0,
    "impressions": 1,
-   "position": 10
+   "position": 7
+  },
+  {
+   "page": "/401k-contribution-calculator/",
+   "clicks": 0,
+   "impressions": 1,
+   "position": 12
+  },
+  {
+   "page": "/about/",
+   "clicks": 0,
+   "impressions": 1,
+   "position": 2
+  },
+  {
+   "page": "/all-articles/",
+   "clicks": 0,
+   "impressions": 1,
+   "position": 5
   },
   {
    "page": "/best-side-hustles-2026/",
    "clicks": 0,
-   "impressions": 1,
-   "position": 6
+   "impressions": 2,
+   "position": 9.5
   },
   {
    "page": "/budgeting-apps-2026-best-free-compared/",
    "clicks": 0,
-   "impressions": 40,
-   "position": 9.4
+   "impressions": 41,
+   "position": 9.6
+  },
+  {
+   "page": "/category/retirement/",
+   "clicks": 0,
+   "impressions": 1,
+   "position": 3
   },
   {
    "page": "/credit-score-range-2026/",
@@ -731,8 +766,8 @@
   {
    "page": "/gig-apps-same-day-pay-2026/",
    "clicks": 0,
-   "impressions": 3,
-   "position": 8.3
+   "impressions": 4,
+   "position": 10.8
   },
   {
    "page": "/gig-income-2026/",
@@ -741,10 +776,16 @@
    "position": 10
   },
   {
+   "page": "/gig-net-pay-calculator/",
+   "clicks": 0,
+   "impressions": 1,
+   "position": 14
+  },
+  {
    "page": "/how-much-does-amazon-flex-pay/",
    "clicks": 0,
-   "impressions": 8,
-   "position": 56.4
+   "impressions": 9,
+   "position": 50.8
   },
   {
    "page": "/how-much-does-doordash-pay/",
@@ -757,42 +798,6 @@
    "clicks": 0,
    "impressions": 2,
    "position": 9
-  },
-  {
-   "page": "/how-much-does-grubhub-pay-2026/",
-   "clicks": 0,
-   "impressions": 5,
-   "position": 22
-  },
-  {
-   "page": "/how-much-does-lyft-pay-2026/",
-   "clicks": 0,
-   "impressions": 5,
-   "position": 17.4
-  },
-  {
-   "page": "/how-much-does-taskrabbit-pay-2026/",
-   "clicks": 0,
-   "impressions": 3,
-   "position": 9.3
-  },
-  {
-   "page": "/how-much-does-uber-eats-pay-2026/",
-   "clicks": 0,
-   "impressions": 1,
-   "position": 7
-  },
-  {
-   "page": "/how-much-does-walmart-spark-pay-2026/",
-   "clicks": 0,
-   "impressions": 5,
-   "position": 9
-  },
-  {
-   "page": "/income-tax-calculator/",
-   "clicks": 0,
-   "impressions": 6,
-   "position": 78.7
   }
  ],
  "indexnow_key": "0abdc53f622bf359b4b9ac38648e5715"
