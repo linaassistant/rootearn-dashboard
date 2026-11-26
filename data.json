@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T22:03:10.664859Z",
+ "generated": "2026-11-26T23:03:09.722500Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,20 +28,20 @@
  },
  "coverage_states": {
   "Submitted and indexed": 64,
-  "URL is unknown to Google": 6,
-  "Discovered - currently not indexed": 10,
-  "Crawled - currently not indexed": 2
+  "Discovered - currently not indexed": 14,
+  "Crawled - currently not indexed": 2,
+  "URL is unknown to Google": 2
  },
  "pending": [
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -83,7 +83,7 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
@@ -107,7 +107,7 @@
   },
   {
    "url": "https://rootearn.com/how-much-do-twitch-streamers-make/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-twitch-streamers-make%2F"
   },
@@ -119,25 +119,25 @@
   },
   {
    "url": "https://rootearn.com/self-employed-health-insurance-cost-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employed-health-insurance-cost-2026%2F"
   },
   {
    "url": "https://rootearn.com/shipt-shopper-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fshipt-shopper-pay-2026%2F"
   },
   {
    "url": "https://rootearn.com/terms/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
   },
   {
    "url": "https://rootearn.com/uber-driver-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fuber-driver-pay-2026%2F"
   }
@@ -205,13 +205,13 @@
   },
   {
    "url": "https://rootearn.com/category/freelancing-gig-work/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Ffreelancing-gig-work%2F"
   },
   {
    "url": "https://rootearn.com/category/make-money-online/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcategory%2Fmake-money-online%2F"
   },
@@ -307,7 +307,7 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
@@ -373,7 +373,7 @@
   },
   {
    "url": "https://rootearn.com/how-much-do-twitch-streamers-make/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhow-much-do-twitch-streamers-make%2F"
   },
@@ -535,7 +535,7 @@
   },
   {
    "url": "https://rootearn.com/self-employed-health-insurance-cost-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fself-employed-health-insurance-cost-2026%2F"
   },
@@ -553,7 +553,7 @@
   },
   {
    "url": "https://rootearn.com/shipt-shopper-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fshipt-shopper-pay-2026%2F"
   },
@@ -589,13 +589,13 @@
   },
   {
    "url": "https://rootearn.com/terms/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fterms%2F"
   },
   {
    "url": "https://rootearn.com/uber-driver-pay-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fuber-driver-pay-2026%2F"
   },
