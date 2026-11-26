@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:03:13.435498Z",
+ "generated": "2026-11-26T12:03:19.210075Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,9 +28,9 @@
  },
  "coverage_states": {
   "Submitted and indexed": 64,
-  "Discovered - currently not indexed": 10,
-  "Crawled - currently not indexed": 2,
-  "URL is unknown to Google": 6
+  "Discovered - currently not indexed": 11,
+  "URL is unknown to Google": 5,
+  "Crawled - currently not indexed": 2
  },
  "pending": [
   {
@@ -47,7 +47,7 @@
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -59,7 +59,7 @@
   },
   {
    "url": "https://rootearn.com/disclaimer/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdisclaimer%2F"
   },
@@ -101,7 +101,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
@@ -253,7 +253,7 @@
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -271,7 +271,7 @@
   },
   {
    "url": "https://rootearn.com/disclaimer/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdisclaimer%2F"
   },
@@ -355,7 +355,7 @@
   },
   {
    "url": "https://rootearn.com/highest-paying-freelance-skills-2026/",
-   "state": "URL is unknown to Google",
+   "state": "Discovered - currently not indexed",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fhighest-paying-freelance-skills-2026%2F"
   },
