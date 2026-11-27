@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T00:03:10.665661Z",
+ "generated": "2026-11-27T01:03:11.467988Z",
  "site": "rootearn.com",
  "sitemap": "https://rootearn.com/sitemap_index.xml",
  "kpi": {
@@ -28,7 +28,8 @@
  },
  "coverage_states": {
   "Submitted and indexed": 64,
-  "Discovered - currently not indexed": 16,
+  "Discovered - currently not indexed": 12,
+  "URL is unknown to Google": 4,
   "Crawled - currently not indexed": 2
  },
  "pending": [
@@ -46,7 +47,7 @@
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -64,7 +65,7 @@
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -82,7 +83,7 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
@@ -112,7 +113,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
@@ -252,7 +253,7 @@
   },
   {
    "url": "https://rootearn.com/contact/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fcontact%2F"
   },
@@ -276,7 +277,7 @@
   },
   {
    "url": "https://rootearn.com/doordash-driver-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fdoordash-driver-pay-2026%2F"
   },
@@ -306,7 +307,7 @@
   },
   {
    "url": "https://rootearn.com/favor-delivery-pay-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Ffavor-delivery-pay-2026%2F"
   },
@@ -474,7 +475,7 @@
   },
   {
    "url": "https://rootearn.com/make-money-online-2026/",
-   "state": "Discovered - currently not indexed",
+   "state": "URL is unknown to Google",
    "crawl": "",
    "gsc": "https://search.google.com/search-console/inspect?resource_id=sc-domain%3Arootearn.com&id=https%3A%2F%2Frootearn.com%2Fmake-money-online-2026%2F"
   },
